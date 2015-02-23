@@ -9,11 +9,11 @@ Supports [lodash 3.3.0v](https://lodash.com/).
 
 ##Installation
 The recomand way is by using [Package Control](https://packagecontrol.io/):
-1. open the command palette by typing `⌘+shift+p` on OS X or `ctrl+shift+p` on Windows/Linux
-2. select `Package Control: Install Package`
-3. type `Lodash modules snippets`
+- open the command palette by typing `⌘+shift+p` on OS X or `ctrl+shift+p` on Windows/Linux
+- select `Package Control: Install Package`
+- type `Lodash modules snippets`
 
 
 The other way is:
-1. open the terminal on sublime's packages folder
-2. type `git clone https://github.com/oriSomething/lodash-modules-sublime.git`
+- open the terminal on sublime's packages folder
+- type `git clone https://github.com/oriSomething/lodash-modules-sublime.git`
