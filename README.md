@@ -6,3 +6,6 @@ Supports [lodash 3.3.0v](https://lodash.com/).
 ##Examples
 - CommonJS: typing `r_map` will resolve to `var map = require('lodash/collection/map');`
 - ES2015: typing `i_map` will resolve to `import map from 'lodash/collection/map';`
+
+##Installation
+The recomand way is by using [Package Control](https://packagecontrol.io/)
