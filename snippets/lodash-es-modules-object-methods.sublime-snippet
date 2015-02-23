@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import methods from 'lodash/object/methods';
+]]></content>
+  <tabTrigger>i_methods</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/object/methods</description>
+</snippet>

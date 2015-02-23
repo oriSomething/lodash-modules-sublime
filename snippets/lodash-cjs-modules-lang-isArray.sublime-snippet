@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var isArray = require('lodash/lang/isArray');
+]]></content>
+  <tabTrigger>r_isArray</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/isArray</description>
+</snippet>

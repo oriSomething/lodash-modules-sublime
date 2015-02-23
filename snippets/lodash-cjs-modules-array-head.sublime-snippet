@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var head = require('lodash/array/head');
+]]></content>
+  <tabTrigger>r_head</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/head</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var toPlainObject = require('lodash/lang/toPlainObject');
+]]></content>
+  <tabTrigger>r_toPlainObject</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/toPlainObject</description>
+</snippet>

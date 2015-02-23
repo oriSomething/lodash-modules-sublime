@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import find from 'lodash/collection/find';
+]]></content>
+  <tabTrigger>i_find</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/find</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var uniqueId = require('lodash/utility/uniqueId');
+]]></content>
+  <tabTrigger>r_uniqueId</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/utility/uniqueId</description>
+</snippet>

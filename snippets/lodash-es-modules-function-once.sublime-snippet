@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import once from 'lodash/function/once';
+]]></content>
+  <tabTrigger>i_once</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/once</description>
+</snippet>

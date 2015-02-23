@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import padRight from 'lodash/string/padRight';
+]]></content>
+  <tabTrigger>i_padRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/padRight</description>
+</snippet>

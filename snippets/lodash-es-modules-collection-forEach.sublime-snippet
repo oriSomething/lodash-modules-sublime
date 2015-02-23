@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import forEach from 'lodash/collection/forEach';
+]]></content>
+  <tabTrigger>i_forEach</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/forEach</description>
+</snippet>

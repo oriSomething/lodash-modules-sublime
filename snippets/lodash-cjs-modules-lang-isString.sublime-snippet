@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var isString = require('lodash/lang/isString');
+]]></content>
+  <tabTrigger>r_isString</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/isString</description>
+</snippet>

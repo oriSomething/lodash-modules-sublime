@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import findLastIndex from 'lodash/array/findLastIndex';
+]]></content>
+  <tabTrigger>i_findLastIndex</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/findLastIndex</description>
+</snippet>

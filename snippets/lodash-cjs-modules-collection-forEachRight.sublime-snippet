@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var forEachRight = require('lodash/collection/forEachRight');
+]]></content>
+  <tabTrigger>r_forEachRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/forEachRight</description>
+</snippet>

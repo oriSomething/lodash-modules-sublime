@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var foldl = require('lodash/collection/foldl');
+]]></content>
+  <tabTrigger>r_foldl</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/foldl</description>
+</snippet>

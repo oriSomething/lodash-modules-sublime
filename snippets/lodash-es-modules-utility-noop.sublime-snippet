@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import noop from 'lodash/utility/noop';
+]]></content>
+  <tabTrigger>i_noop</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/utility/noop</description>
+</snippet>

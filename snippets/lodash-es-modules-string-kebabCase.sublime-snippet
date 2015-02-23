@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import kebabCase from 'lodash/string/kebabCase';
+]]></content>
+  <tabTrigger>i_kebabCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/kebabCase</description>
+</snippet>

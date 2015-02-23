@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import drop from 'lodash/array/drop';
+]]></content>
+  <tabTrigger>i_drop</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/drop</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var flow = require('lodash/function/flow');
+]]></content>
+  <tabTrigger>r_flow</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/function/flow</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var dropRightWhile = require('lodash/array/dropRightWhile');
+]]></content>
+  <tabTrigger>r_dropRightWhile</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/dropRightWhile</description>
+</snippet>

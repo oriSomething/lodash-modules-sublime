@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sample from 'lodash/collection/sample';
+]]></content>
+  <tabTrigger>i_sample</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/sample</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var where = require('lodash/collection/where');
+]]></content>
+  <tabTrigger>r_where</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/where</description>
+</snippet>

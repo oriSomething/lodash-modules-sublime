@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import findIndex from 'lodash/array/findIndex';
+]]></content>
+  <tabTrigger>i_findIndex</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/findIndex</description>
+</snippet>

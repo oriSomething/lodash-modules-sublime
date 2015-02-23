@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var keysIn = require('lodash/object/keysIn');
+]]></content>
+  <tabTrigger>r_keysIn</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/object/keysIn</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import defer from 'lodash/function/defer';
+]]></content>
+  <tabTrigger>i_defer</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/defer</description>
+</snippet>

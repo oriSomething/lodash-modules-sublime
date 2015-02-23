@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import bindAll from 'lodash/function/bindAll';
+]]></content>
+  <tabTrigger>i_bindAll</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/bindAll</description>
+</snippet>

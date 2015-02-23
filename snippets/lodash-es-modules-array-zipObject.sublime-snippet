@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import zipObject from 'lodash/array/zipObject';
+]]></content>
+  <tabTrigger>i_zipObject</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/zipObject</description>
+</snippet>

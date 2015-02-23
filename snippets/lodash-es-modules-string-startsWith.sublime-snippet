@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import startsWith from 'lodash/string/startsWith';
+]]></content>
+  <tabTrigger>i_startsWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/startsWith</description>
+</snippet>

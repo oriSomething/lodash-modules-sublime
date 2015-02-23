@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import compose from 'lodash/function/compose';
+]]></content>
+  <tabTrigger>i_compose</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/compose</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import has from 'lodash/object/has';
+]]></content>
+  <tabTrigger>i_has</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/object/has</description>
+</snippet>

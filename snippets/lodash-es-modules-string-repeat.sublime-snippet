@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import repeat from 'lodash/string/repeat';
+]]></content>
+  <tabTrigger>i_repeat</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/repeat</description>
+</snippet>

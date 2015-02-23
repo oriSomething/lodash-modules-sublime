@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var delay = require('lodash/function/delay');
+]]></content>
+  <tabTrigger>r_delay</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/function/delay</description>
+</snippet>

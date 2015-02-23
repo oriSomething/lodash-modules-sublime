@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var isEmpty = require('lodash/lang/isEmpty');
+]]></content>
+  <tabTrigger>r_isEmpty</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/isEmpty</description>
+</snippet>

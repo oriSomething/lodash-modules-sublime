@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import contains from 'lodash/collection/contains';
+]]></content>
+  <tabTrigger>i_contains</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/contains</description>
+</snippet>

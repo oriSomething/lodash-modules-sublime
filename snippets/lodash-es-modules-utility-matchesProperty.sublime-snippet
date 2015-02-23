@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import matchesProperty from 'lodash/utility/matchesProperty';
+]]></content>
+  <tabTrigger>i_matchesProperty</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/utility/matchesProperty</description>
+</snippet>

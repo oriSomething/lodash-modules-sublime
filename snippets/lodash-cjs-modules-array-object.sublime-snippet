@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var object = require('lodash/array/object');
+]]></content>
+  <tabTrigger>r_object</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/object</description>
+</snippet>

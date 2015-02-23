@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import bindKey from 'lodash/function/bindKey';
+]]></content>
+  <tabTrigger>i_bindKey</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/bindKey</description>
+</snippet>

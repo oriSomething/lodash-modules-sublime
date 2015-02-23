@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var capitalize = require('lodash/string/capitalize');
+]]></content>
+  <tabTrigger>r_capitalize</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/string/capitalize</description>
+</snippet>

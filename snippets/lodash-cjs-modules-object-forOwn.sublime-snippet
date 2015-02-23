@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var forOwn = require('lodash/object/forOwn');
+]]></content>
+  <tabTrigger>r_forOwn</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/object/forOwn</description>
+</snippet>

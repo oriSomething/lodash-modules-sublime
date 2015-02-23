@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import intersection from 'lodash/array/intersection';
+]]></content>
+  <tabTrigger>i_intersection</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/intersection</description>
+</snippet>

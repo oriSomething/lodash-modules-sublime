@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var sample = require('lodash/collection/sample');
+]]></content>
+  <tabTrigger>r_sample</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/sample</description>
+</snippet>

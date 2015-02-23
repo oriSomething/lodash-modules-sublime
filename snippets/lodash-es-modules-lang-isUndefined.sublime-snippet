@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isUndefined from 'lodash/lang/isUndefined';
+]]></content>
+  <tabTrigger>i_isUndefined</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang/isUndefined</description>
+</snippet>

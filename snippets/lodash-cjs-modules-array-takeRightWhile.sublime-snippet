@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var takeRightWhile = require('lodash/array/takeRightWhile');
+]]></content>
+  <tabTrigger>r_takeRightWhile</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/takeRightWhile</description>
+</snippet>

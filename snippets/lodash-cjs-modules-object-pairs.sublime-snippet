@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var pairs = require('lodash/object/pairs');
+]]></content>
+  <tabTrigger>r_pairs</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/object/pairs</description>
+</snippet>

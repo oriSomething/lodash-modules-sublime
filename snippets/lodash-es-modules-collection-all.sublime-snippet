@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import all from 'lodash/collection/all';
+]]></content>
+  <tabTrigger>i_all</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/all</description>
+</snippet>

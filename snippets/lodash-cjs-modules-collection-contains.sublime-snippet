@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var contains = require('lodash/collection/contains');
+]]></content>
+  <tabTrigger>r_contains</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/contains</description>
+</snippet>

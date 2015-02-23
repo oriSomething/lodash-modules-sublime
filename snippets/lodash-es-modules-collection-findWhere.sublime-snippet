@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import findWhere from 'lodash/collection/findWhere';
+]]></content>
+  <tabTrigger>i_findWhere</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/findWhere</description>
+</snippet>

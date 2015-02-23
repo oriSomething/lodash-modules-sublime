@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var isUndefined = require('lodash/lang/isUndefined');
+]]></content>
+  <tabTrigger>r_isUndefined</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/isUndefined</description>
+</snippet>

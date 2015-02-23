@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import mapValues from 'lodash/object/mapValues';
+]]></content>
+  <tabTrigger>i_mapValues</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/object/mapValues</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isDate from 'lodash/lang/isDate';
+]]></content>
+  <tabTrigger>i_isDate</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang/isDate</description>
+</snippet>

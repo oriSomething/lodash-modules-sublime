@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var trunc = require('lodash/string/trunc');
+]]></content>
+  <tabTrigger>r_trunc</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/string/trunc</description>
+</snippet>

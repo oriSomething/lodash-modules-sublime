@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import select from 'lodash/collection/select';
+]]></content>
+  <tabTrigger>i_select</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/select</description>
+</snippet>

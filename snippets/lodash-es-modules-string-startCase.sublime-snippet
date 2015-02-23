@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import startCase from 'lodash/string/startCase';
+]]></content>
+  <tabTrigger>i_startCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/startCase</description>
+</snippet>

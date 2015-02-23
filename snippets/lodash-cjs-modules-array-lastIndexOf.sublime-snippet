@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var lastIndexOf = require('lodash/array/lastIndexOf');
+]]></content>
+  <tabTrigger>r_lastIndexOf</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/lastIndexOf</description>
+</snippet>

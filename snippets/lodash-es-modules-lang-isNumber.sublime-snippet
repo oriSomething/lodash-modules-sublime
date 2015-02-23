@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isNumber from 'lodash/lang/isNumber';
+]]></content>
+  <tabTrigger>i_isNumber</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang/isNumber</description>
+</snippet>

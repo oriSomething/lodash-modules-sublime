@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var reduceRight = require('lodash/collection/reduceRight');
+]]></content>
+  <tabTrigger>r_reduceRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/reduceRight</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var drop = require('lodash/array/drop');
+]]></content>
+  <tabTrigger>r_drop</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/drop</description>
+</snippet>

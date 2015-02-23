@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import compact from 'lodash/array/compact';
+]]></content>
+  <tabTrigger>i_compact</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/compact</description>
+</snippet>

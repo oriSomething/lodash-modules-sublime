@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var fill = require('lodash/array/fill');
+]]></content>
+  <tabTrigger>r_fill</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/fill</description>
+</snippet>

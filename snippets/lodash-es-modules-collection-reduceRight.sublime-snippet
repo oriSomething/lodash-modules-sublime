@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import reduceRight from 'lodash/collection/reduceRight';
+]]></content>
+  <tabTrigger>i_reduceRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/reduceRight</description>
+</snippet>

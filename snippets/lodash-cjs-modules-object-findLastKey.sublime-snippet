@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var findLastKey = require('lodash/object/findLastKey');
+]]></content>
+  <tabTrigger>r_findLastKey</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/object/findLastKey</description>
+</snippet>

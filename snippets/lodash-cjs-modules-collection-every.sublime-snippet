@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var every = require('lodash/collection/every');
+]]></content>
+  <tabTrigger>r_every</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/every</description>
+</snippet>

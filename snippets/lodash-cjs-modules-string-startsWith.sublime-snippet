@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var startsWith = require('lodash/string/startsWith');
+]]></content>
+  <tabTrigger>r_startsWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/string/startsWith</description>
+</snippet>

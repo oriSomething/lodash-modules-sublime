@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var wrap = require('lodash/function/wrap');
+]]></content>
+  <tabTrigger>r_wrap</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/function/wrap</description>
+</snippet>

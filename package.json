@@ -1,0 +1,15 @@
+{
+  "name": "lodash-modules-sublime",
+  "version": "0.0.1",
+  "description": "Lodash modules snippets for sublime text",
+  "author": "Ori Livni (@oriSomething)",
+  "license": "MIT",
+  "repository": "https://github.com/oriSomething/lodash-modules-sublime.git",
+  "keywords": [
+    "sublime",
+    "text",
+    "lodash",
+    "modules",
+    "snippets"
+  ]
+}

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var startCase = require('lodash/string/startCase');
+]]></content>
+  <tabTrigger>r_startCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/string/startCase</description>
+</snippet>

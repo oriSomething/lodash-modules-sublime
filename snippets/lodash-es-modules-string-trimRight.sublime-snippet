@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import trimRight from 'lodash/string/trimRight';
+]]></content>
+  <tabTrigger>i_trimRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/trimRight</description>
+</snippet>

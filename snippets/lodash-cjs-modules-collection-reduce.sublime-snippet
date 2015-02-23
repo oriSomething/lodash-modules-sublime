@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var reduce = require('lodash/collection/reduce');
+]]></content>
+  <tabTrigger>r_reduce</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/reduce</description>
+</snippet>

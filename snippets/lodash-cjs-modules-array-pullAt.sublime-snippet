@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var pullAt = require('lodash/array/pullAt');
+]]></content>
+  <tabTrigger>r_pullAt</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/pullAt</description>
+</snippet>

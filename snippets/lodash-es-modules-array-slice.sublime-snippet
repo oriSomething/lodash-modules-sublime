@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import slice from 'lodash/array/slice';
+]]></content>
+  <tabTrigger>i_slice</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/slice</description>
+</snippet>

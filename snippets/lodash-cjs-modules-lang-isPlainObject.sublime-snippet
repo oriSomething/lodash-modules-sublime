@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var isPlainObject = require('lodash/lang/isPlainObject');
+]]></content>
+  <tabTrigger>r_isPlainObject</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/isPlainObject</description>
+</snippet>

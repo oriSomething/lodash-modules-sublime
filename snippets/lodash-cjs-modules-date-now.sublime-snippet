@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var now = require('lodash/date/now');
+]]></content>
+  <tabTrigger>r_now</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/date/now</description>
+</snippet>

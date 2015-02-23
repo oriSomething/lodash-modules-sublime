@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isEqual from 'lodash/lang/isEqual';
+]]></content>
+  <tabTrigger>i_isEqual</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang/isEqual</description>
+</snippet>

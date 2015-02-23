@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var each = require('lodash/collection/each');
+]]></content>
+  <tabTrigger>r_each</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/collection/each</description>
+</snippet>

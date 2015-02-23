@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import foldl from 'lodash/collection/foldl';
+]]></content>
+  <tabTrigger>i_foldl</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/foldl</description>
+</snippet>

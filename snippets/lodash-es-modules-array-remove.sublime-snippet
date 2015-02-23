@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import remove from 'lodash/array/remove';
+]]></content>
+  <tabTrigger>i_remove</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array/remove</description>
+</snippet>

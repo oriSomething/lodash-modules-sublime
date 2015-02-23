@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import times from 'lodash/utility/times';
+]]></content>
+  <tabTrigger>i_times</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/utility/times</description>
+</snippet>

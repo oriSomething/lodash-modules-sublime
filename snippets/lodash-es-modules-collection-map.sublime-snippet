@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import map from 'lodash/collection/map';
+]]></content>
+  <tabTrigger>i_map</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/map</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import keys from 'lodash/object/keys';
+]]></content>
+  <tabTrigger>i_keys</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/object/keys</description>
+</snippet>

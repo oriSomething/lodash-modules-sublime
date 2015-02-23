@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isNull from 'lodash/lang/isNull';
+]]></content>
+  <tabTrigger>i_isNull</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang/isNull</description>
+</snippet>

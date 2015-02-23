@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var slice = require('lodash/array/slice');
+]]></content>
+  <tabTrigger>r_slice</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/slice</description>
+</snippet>

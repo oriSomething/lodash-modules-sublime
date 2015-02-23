@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import trunc from 'lodash/string/trunc';
+]]></content>
+  <tabTrigger>i_trunc</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string/trunc</description>
+</snippet>

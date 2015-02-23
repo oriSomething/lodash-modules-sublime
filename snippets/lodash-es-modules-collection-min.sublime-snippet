@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import min from 'lodash/collection/min';
+]]></content>
+  <tabTrigger>i_min</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/min</description>
+</snippet>

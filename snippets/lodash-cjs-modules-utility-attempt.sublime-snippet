@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var attempt = require('lodash/utility/attempt');
+]]></content>
+  <tabTrigger>r_attempt</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/utility/attempt</description>
+</snippet>

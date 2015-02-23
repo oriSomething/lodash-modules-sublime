@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import curry from 'lodash/function/curry';
+]]></content>
+  <tabTrigger>i_curry</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/curry</description>
+</snippet>
