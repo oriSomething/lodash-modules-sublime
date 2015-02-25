@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-var isFinite = require('lodash/lang/isFinite');
+var _isFinite = require('lodash/lang/isFinite');
 ]]></content>
   <tabTrigger>r_isFinite</tabTrigger>
   <scope>source.js</scope>
