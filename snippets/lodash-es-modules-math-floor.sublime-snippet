@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import floor from 'lodash/math/floor';
+]]></content>
+  <tabTrigger>i_floor</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/math/floor</description>
+</snippet>

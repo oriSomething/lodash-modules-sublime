@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var unzipWith = require('lodash/array/unzipWith');
+]]></content>
+  <tabTrigger>r_unzipWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/array/unzipWith</description>
+</snippet>

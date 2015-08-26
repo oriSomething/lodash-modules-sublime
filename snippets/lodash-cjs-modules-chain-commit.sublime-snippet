@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var commit = require('lodash/chain/commit');
+]]></content>
+  <tabTrigger>r_commit</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain/commit</description>
+</snippet>

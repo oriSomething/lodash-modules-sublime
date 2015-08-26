@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var modArgs = require('lodash/function/modArgs');
+]]></content>
+  <tabTrigger>r_modArgs</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/function/modArgs</description>
+</snippet>

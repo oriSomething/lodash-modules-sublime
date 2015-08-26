@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import wrapperConcat from 'lodash/chain/wrapperConcat';
+]]></content>
+  <tabTrigger>i_wrapperConcat</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/wrapperConcat</description>
+</snippet>

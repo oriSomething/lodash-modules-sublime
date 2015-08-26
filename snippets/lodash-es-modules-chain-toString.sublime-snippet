@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toString from 'lodash/chain/toString';
+]]></content>
+  <tabTrigger>i_toString</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/toString</description>
+</snippet>

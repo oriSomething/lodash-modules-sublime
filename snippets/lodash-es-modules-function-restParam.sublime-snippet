@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import restParam from 'lodash/function/restParam';
+]]></content>
+  <tabTrigger>i_restParam</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/restParam</description>
+</snippet>

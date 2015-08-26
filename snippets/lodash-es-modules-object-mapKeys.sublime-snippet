@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import mapKeys from 'lodash/object/mapKeys';
+]]></content>
+  <tabTrigger>i_mapKeys</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/object/mapKeys</description>
+</snippet>

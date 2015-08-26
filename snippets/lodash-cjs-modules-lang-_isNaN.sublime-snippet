@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var _isNaN = require('lodash/lang/_isNaN');
+]]></content>
+  <tabTrigger>r__isNaN</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/_isNaN</description>
+</snippet>

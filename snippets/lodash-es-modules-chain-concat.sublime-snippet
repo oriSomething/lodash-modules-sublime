@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import concat from 'lodash/chain/concat';
+]]></content>
+  <tabTrigger>i_concat</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/concat</description>
+</snippet>

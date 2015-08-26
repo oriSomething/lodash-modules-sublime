@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import modArgs from 'lodash/function/modArgs';
+]]></content>
+  <tabTrigger>i_modArgs</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function/modArgs</description>
+</snippet>

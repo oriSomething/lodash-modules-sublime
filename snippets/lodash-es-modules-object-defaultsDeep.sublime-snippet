@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import defaultsDeep from 'lodash/object/defaultsDeep';
+]]></content>
+  <tabTrigger>i_defaultsDeep</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/object/defaultsDeep</description>
+</snippet>

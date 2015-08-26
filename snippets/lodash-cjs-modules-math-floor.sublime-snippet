@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var floor = require('lodash/math/floor');
+]]></content>
+  <tabTrigger>r_floor</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/math/floor</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var wrapperConcat = require('lodash/chain/wrapperConcat');
+]]></content>
+  <tabTrigger>r_wrapperConcat</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain/wrapperConcat</description>
+</snippet>

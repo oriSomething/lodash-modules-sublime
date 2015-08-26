@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var lt = require('lodash/lang/lt');
+]]></content>
+  <tabTrigger>r_lt</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/lt</description>
+</snippet>

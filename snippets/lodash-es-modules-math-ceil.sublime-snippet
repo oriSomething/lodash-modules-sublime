@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import ceil from 'lodash/math/ceil';
+]]></content>
+  <tabTrigger>i_ceil</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/math/ceil</description>
+</snippet>

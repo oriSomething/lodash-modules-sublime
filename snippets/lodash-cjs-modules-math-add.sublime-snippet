@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var add = require('lodash/math/add');
+]]></content>
+  <tabTrigger>r_add</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/math/add</description>
+</snippet>

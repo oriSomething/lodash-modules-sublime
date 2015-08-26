@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var restParam = require('lodash/function/restParam');
+]]></content>
+  <tabTrigger>r_restParam</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/function/restParam</description>
+</snippet>
