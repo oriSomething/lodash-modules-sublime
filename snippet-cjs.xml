@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var @var = require('lodash/@collection/@method');
+]]></content>
+  <tabTrigger>r_@method</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/@collection/@method</description>
+</snippet>
