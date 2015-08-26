@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import wrapperReverse from 'lodash/chain/wrapperReverse';
+]]></content>
+  <tabTrigger>i_wrapperReverse</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/wrapperReverse</description>
+</snippet>

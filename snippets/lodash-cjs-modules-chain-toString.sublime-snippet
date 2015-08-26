@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var toString = require('lodash/chain/toString');
+]]></content>
+  <tabTrigger>r_toString</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain/toString</description>
+</snippet>

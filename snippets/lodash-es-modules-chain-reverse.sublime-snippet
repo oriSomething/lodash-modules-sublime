@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import reverse from 'lodash/chain/reverse';
+]]></content>
+  <tabTrigger>i_reverse</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/reverse</description>
+</snippet>

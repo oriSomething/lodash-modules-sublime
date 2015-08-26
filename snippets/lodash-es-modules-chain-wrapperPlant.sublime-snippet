@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import wrapperPlant from 'lodash/chain/wrapperPlant';
+]]></content>
+  <tabTrigger>i_wrapperPlant</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/wrapperPlant</description>
+</snippet>

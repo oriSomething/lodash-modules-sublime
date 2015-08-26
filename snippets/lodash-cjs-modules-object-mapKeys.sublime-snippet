@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var mapKeys = require('lodash/object/mapKeys');
+]]></content>
+  <tabTrigger>r_mapKeys</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/object/mapKeys</description>
+</snippet>

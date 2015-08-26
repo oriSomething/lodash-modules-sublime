@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import run from 'lodash/chain/run';
+]]></content>
+  <tabTrigger>i_run</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/run</description>
+</snippet>

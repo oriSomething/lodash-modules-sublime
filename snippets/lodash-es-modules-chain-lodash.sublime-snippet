@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import lodash from 'lodash/chain/lodash';
+]]></content>
+  <tabTrigger>i_lodash</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/lodash</description>
+</snippet>

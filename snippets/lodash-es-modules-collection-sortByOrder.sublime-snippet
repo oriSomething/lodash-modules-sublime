@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sortByOrder from 'lodash/collection/sortByOrder';
+]]></content>
+  <tabTrigger>i_sortByOrder</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/sortByOrder</description>
+</snippet>

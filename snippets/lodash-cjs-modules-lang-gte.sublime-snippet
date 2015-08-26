@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var gte = require('lodash/lang/gte');
+]]></content>
+  <tabTrigger>r_gte</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/gte</description>
+</snippet>

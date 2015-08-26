@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var eq = require('lodash/lang/eq');
+]]></content>
+  <tabTrigger>r_eq</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lang/eq</description>
+</snippet>

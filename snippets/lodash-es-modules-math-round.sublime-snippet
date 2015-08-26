@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import round from 'lodash/math/round';
+]]></content>
+  <tabTrigger>i_round</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/math/round</description>
+</snippet>

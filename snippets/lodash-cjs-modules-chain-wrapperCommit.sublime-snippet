@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var wrapperCommit = require('lodash/chain/wrapperCommit');
+]]></content>
+  <tabTrigger>r_wrapperCommit</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain/wrapperCommit</description>
+</snippet>

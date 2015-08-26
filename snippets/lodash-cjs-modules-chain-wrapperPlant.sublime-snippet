@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var wrapperPlant = require('lodash/chain/wrapperPlant');
+]]></content>
+  <tabTrigger>r_wrapperPlant</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain/wrapperPlant</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import wrapperToString from 'lodash/chain/wrapperToString';
+]]></content>
+  <tabTrigger>i_wrapperToString</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chain/wrapperToString</description>
+</snippet>

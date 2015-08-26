@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var round = require('lodash/math/round');
+]]></content>
+  <tabTrigger>r_round</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/math/round</description>
+</snippet>

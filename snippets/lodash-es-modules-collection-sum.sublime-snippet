@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sum from 'lodash/collection/sum';
+]]></content>
+  <tabTrigger>i_sum</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/collection/sum</description>
+</snippet>

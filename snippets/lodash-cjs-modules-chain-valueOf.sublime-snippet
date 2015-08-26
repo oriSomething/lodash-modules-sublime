@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var valueOf = require('lodash/chain/valueOf');
+]]></content>
+  <tabTrigger>r_valueOf</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain/valueOf</description>
+</snippet>

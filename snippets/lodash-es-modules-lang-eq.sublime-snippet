@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import eq from 'lodash/lang/eq';
+]]></content>
+  <tabTrigger>i_eq</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang/eq</description>
+</snippet>

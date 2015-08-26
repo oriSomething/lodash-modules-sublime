@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var defaultsDeep = require('lodash/object/defaultsDeep');
+]]></content>
+  <tabTrigger>r_defaultsDeep</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/object/defaultsDeep</description>
+</snippet>
