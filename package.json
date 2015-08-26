@@ -5,6 +5,9 @@
   "author": "Ori Livni (@oriSomething)",
   "license": "MIT",
   "repository": "https://github.com/oriSomething/lodash-modules-sublime.git",
+  "dependencies": {
+    "lodash-cli": "^3.10.1"
+  },
   "keywords": [
     "sublime",
     "text",
