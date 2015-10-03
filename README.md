@@ -8,7 +8,7 @@ Supports [lodash 3.3.0v](https://lodash.com/).
 - ES2015: typing `i_map` will resolve to `import map from 'lodash/collection/map';`
 
 ##Installation
-The recomand way is by using [Package Control](https://packagecontrol.io/):
+The recommended way is by using [Package Control](https://packagecontrol.io/):
 - open the command palette by typing `⌘+shift+p` on OS X or `ctrl+shift+p` on Windows/Linux
 - select `Package Control: Install Package`
 - type `Lodash modules snippets`
