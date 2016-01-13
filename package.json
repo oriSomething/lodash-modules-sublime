@@ -5,11 +5,17 @@
   "author": "Ori Livni (@oriSomething)",
   "license": "MIT",
   "repository": "https://github.com/oriSomething/lodash-modules-sublime.git",
+  "scripts": {
+    "start": "node create-snippets.js"
+  },
   "keywords": [
     "sublime",
     "text",
     "lodash",
     "modules",
     "snippets"
-  ]
+  ],
+  "devDependencies": {
+    "lodash": "^4.0.0"
+  }
 }
