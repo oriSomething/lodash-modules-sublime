@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import sortedIndex from 'lodash/array/sortedIndex';
-]]></content>
-  <tabTrigger>i_sortedIndex</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/sortedIndex</description>
-</snippet>

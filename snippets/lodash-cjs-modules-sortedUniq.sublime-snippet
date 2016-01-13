@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const sortedUniq = require('lodash/sortedUniq');
+]]></content>
+  <tabTrigger>r_sortedUniq</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/sortedUniq</description>
+</snippet>

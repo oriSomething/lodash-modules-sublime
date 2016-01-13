@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var include = require('lodash/collection/include');
-]]></content>
-  <tabTrigger>r_include</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/include</description>
-</snippet>

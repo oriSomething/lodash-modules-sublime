@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const forEach = require('lodash/forEach');
+]]></content>
+  <tabTrigger>r_forEach</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/forEach</description>
+</snippet>

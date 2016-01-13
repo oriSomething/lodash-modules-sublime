@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import shuffle from 'lodash/collection/shuffle';
-]]></content>
-  <tabTrigger>i_shuffle</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/shuffle</description>
-</snippet>

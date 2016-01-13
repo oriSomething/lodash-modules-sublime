@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const sum = require('lodash/sum');
+]]></content>
+  <tabTrigger>r_sum</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/sum</description>
+</snippet>

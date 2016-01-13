@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var findKey = require('lodash/object/findKey');
-]]></content>
-  <tabTrigger>r_findKey</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/object/findKey</description>
-</snippet>

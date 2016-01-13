@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const invokeMap = require('lodash/invokeMap');
+]]></content>
+  <tabTrigger>r_invokeMap</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/invokeMap</description>
+</snippet>

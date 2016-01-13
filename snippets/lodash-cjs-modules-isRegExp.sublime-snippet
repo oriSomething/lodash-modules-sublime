@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isRegExp = require('lodash/isRegExp');
+]]></content>
+  <tabTrigger>r_isRegExp</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isRegExp</description>
+</snippet>

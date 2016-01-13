@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import flattenDeep from 'lodash/array/flattenDeep';
-]]></content>
-  <tabTrigger>i_flattenDeep</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/flattenDeep</description>
-</snippet>

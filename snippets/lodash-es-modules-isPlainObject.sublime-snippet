@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isPlainObject from 'lodash/isPlainObject';
+]]></content>
+  <tabTrigger>i_isPlainObject</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isPlainObject</description>
+</snippet>

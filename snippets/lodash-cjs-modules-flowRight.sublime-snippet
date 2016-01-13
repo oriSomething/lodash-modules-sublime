@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const flowRight = require('lodash/flowRight');
+]]></content>
+  <tabTrigger>r_flowRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/flowRight</description>
+</snippet>

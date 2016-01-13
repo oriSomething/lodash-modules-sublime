@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isDate = require('lodash/isDate');
+]]></content>
+  <tabTrigger>r_isDate</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isDate</description>
+</snippet>

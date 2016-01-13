@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isArguments = require('lodash/lang/isArguments');
-]]></content>
-  <tabTrigger>r_isArguments</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isArguments</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const setWith = require('lodash/setWith');
+]]></content>
+  <tabTrigger>r_setWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/setWith</description>
+</snippet>

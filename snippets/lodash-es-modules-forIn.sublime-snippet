@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import forIn from 'lodash/forIn';
+]]></content>
+  <tabTrigger>i_forIn</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/forIn</description>
+</snippet>

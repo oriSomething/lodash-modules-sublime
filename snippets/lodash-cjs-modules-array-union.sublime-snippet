@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var union = require('lodash/array/union');
-]]></content>
-  <tabTrigger>r_union</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/union</description>
-</snippet>

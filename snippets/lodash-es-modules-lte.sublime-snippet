@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import lte from 'lodash/lte';
+]]></content>
+  <tabTrigger>i_lte</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lte</description>
+</snippet>

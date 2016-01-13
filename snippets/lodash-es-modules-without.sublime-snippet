@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import without from 'lodash/without';
+]]></content>
+  <tabTrigger>i_without</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/without</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const words = require('lodash/words');
+]]></content>
+  <tabTrigger>r_words</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/words</description>
+</snippet>

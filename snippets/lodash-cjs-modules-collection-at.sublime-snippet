@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var at = require('lodash/collection/at');
-]]></content>
-  <tabTrigger>r_at</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/at</description>
-</snippet>

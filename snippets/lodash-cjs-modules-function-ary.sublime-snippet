@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var ary = require('lodash/function/ary');
-]]></content>
-  <tabTrigger>r_ary</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/function/ary</description>
-</snippet>

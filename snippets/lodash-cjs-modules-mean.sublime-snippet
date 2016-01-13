@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const mean = require('lodash/mean');
+]]></content>
+  <tabTrigger>r_mean</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/mean</description>
+</snippet>

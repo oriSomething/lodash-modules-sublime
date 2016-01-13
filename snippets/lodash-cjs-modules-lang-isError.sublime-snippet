@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isError = require('lodash/lang/isError');
-]]></content>
-  <tabTrigger>r_isError</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isError</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import fill from 'lodash/fill';
+]]></content>
+  <tabTrigger>i_fill</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/fill</description>
+</snippet>

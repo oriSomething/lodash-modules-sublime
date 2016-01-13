@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import uniqWith from 'lodash/uniqWith';
+]]></content>
+  <tabTrigger>i_uniqWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/uniqWith</description>
+</snippet>

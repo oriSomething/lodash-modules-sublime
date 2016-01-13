@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var compose = require('lodash/function/compose');
-]]></content>
-  <tabTrigger>r_compose</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/function/compose</description>
-</snippet>

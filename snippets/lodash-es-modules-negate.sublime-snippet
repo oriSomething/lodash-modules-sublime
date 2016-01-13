@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import negate from 'lodash/negate';
+]]></content>
+  <tabTrigger>i_negate</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/negate</description>
+</snippet>

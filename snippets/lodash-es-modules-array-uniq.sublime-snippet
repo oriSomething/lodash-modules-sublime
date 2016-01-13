@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import uniq from 'lodash/array/uniq';
-]]></content>
-  <tabTrigger>i_uniq</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/uniq</description>
-</snippet>

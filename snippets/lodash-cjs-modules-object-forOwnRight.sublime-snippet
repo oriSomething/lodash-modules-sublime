@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var forOwnRight = require('lodash/object/forOwnRight');
-]]></content>
-  <tabTrigger>r_forOwnRight</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/object/forOwnRight</description>
-</snippet>

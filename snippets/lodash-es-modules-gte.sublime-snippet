@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import gte from 'lodash/gte';
+]]></content>
+  <tabTrigger>i_gte</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/gte</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isError from 'lodash/isError';
+]]></content>
+  <tabTrigger>i_isError</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isError</description>
+</snippet>

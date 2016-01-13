@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toUpper = require('lodash/toUpper');
+]]></content>
+  <tabTrigger>r_toUpper</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toUpper</description>
+</snippet>

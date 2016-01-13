@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import chunk from 'lodash/chunk';
+]]></content>
+  <tabTrigger>i_chunk</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/chunk</description>
+</snippet>

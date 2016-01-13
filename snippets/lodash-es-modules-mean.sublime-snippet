@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import mean from 'lodash/mean';
+]]></content>
+  <tabTrigger>i_mean</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/mean</description>
+</snippet>

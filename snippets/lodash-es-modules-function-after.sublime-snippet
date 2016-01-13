@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import after from 'lodash/function/after';
-]]></content>
-  <tabTrigger>i_after</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/function/after</description>
-</snippet>

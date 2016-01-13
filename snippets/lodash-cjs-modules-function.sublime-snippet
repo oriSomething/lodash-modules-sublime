@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const function = require('lodash/function');
+]]></content>
+  <tabTrigger>r_function</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/function</description>
+</snippet>

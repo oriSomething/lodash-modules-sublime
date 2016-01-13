@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const difference = require('lodash/difference');
+]]></content>
+  <tabTrigger>r_difference</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/difference</description>
+</snippet>

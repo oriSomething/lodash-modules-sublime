@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const functionsIn = require('lodash/functionsIn');
+]]></content>
+  <tabTrigger>r_functionsIn</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/functionsIn</description>
+</snippet>

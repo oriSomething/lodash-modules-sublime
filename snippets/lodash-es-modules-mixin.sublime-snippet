@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import mixin from 'lodash/mixin';
+]]></content>
+  <tabTrigger>i_mixin</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/mixin</description>
+</snippet>

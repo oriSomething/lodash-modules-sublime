@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import reject from 'lodash/reject';
+]]></content>
+  <tabTrigger>i_reject</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/reject</description>
+</snippet>

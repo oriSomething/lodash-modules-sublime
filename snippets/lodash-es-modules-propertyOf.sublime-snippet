@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import propertyOf from 'lodash/propertyOf';
+]]></content>
+  <tabTrigger>i_propertyOf</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/propertyOf</description>
+</snippet>

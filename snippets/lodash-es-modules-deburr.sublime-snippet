@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import deburr from 'lodash/deburr';
+]]></content>
+  <tabTrigger>i_deburr</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/deburr</description>
+</snippet>

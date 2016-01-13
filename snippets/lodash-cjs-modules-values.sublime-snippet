@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const values = require('lodash/values');
+]]></content>
+  <tabTrigger>r_values</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/values</description>
+</snippet>

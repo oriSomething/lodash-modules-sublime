@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toPath from 'lodash/toPath';
+]]></content>
+  <tabTrigger>i_toPath</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toPath</description>
+</snippet>

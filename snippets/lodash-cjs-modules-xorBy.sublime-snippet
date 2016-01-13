@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const xorBy = require('lodash/xorBy');
+]]></content>
+  <tabTrigger>r_xorBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/xorBy</description>
+</snippet>

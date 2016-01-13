@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isFunction = require('lodash/isFunction');
+]]></content>
+  <tabTrigger>r_isFunction</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isFunction</description>
+</snippet>

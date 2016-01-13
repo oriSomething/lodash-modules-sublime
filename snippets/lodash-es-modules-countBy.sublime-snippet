@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import countBy from 'lodash/countBy';
+]]></content>
+  <tabTrigger>i_countBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/countBy</description>
+</snippet>

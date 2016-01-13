@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const noop = require('lodash/noop');
+]]></content>
+  <tabTrigger>r_noop</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/noop</description>
+</snippet>

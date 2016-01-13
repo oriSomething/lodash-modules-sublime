@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import reject from 'lodash/collection/reject';
-]]></content>
-  <tabTrigger>i_reject</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/reject</description>
-</snippet>

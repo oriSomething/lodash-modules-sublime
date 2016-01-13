@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import constant from 'lodash/constant';
+]]></content>
+  <tabTrigger>i_constant</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/constant</description>
+</snippet>

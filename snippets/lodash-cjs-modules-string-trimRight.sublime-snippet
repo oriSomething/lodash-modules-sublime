@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var trimRight = require('lodash/string/trimRight');
-]]></content>
-  <tabTrigger>r_trimRight</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/string/trimRight</description>
-</snippet>

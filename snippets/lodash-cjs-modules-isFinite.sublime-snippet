@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const _isFinite = require('lodash/isFinite');
+]]></content>
+  <tabTrigger>r_isFinite</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isFinite</description>
+</snippet>

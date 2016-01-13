@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isBoolean from 'lodash/isBoolean';
+]]></content>
+  <tabTrigger>i_isBoolean</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isBoolean</description>
+</snippet>

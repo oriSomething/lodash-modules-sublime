@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import pick from 'lodash/pick';
+]]></content>
+  <tabTrigger>i_pick</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/pick</description>
+</snippet>

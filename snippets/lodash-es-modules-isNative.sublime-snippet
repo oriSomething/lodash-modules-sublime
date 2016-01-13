@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isNative from 'lodash/isNative';
+]]></content>
+  <tabTrigger>i_isNative</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isNative</description>
+</snippet>

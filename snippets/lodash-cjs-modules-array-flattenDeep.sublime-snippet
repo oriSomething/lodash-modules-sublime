@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var flattenDeep = require('lodash/array/flattenDeep');
-]]></content>
-  <tabTrigger>r_flattenDeep</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/flattenDeep</description>
-</snippet>

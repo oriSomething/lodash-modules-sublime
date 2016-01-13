@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var camelCase = require('lodash/string/camelCase');
-]]></content>
-  <tabTrigger>r_camelCase</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/string/camelCase</description>
-</snippet>

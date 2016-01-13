@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import trimEnd from 'lodash/trimEnd';
+]]></content>
+  <tabTrigger>i_trimEnd</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/trimEnd</description>
+</snippet>

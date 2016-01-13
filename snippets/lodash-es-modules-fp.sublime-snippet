@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import fp from 'lodash/fp';
+]]></content>
+  <tabTrigger>i_fp</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/fp</description>
+</snippet>

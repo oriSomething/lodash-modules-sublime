@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import upperFirst from 'lodash/upperFirst';
+]]></content>
+  <tabTrigger>i_upperFirst</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/upperFirst</description>
+</snippet>

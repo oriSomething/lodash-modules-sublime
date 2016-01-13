@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import clamp from 'lodash/clamp';
+]]></content>
+  <tabTrigger>i_clamp</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/clamp</description>
+</snippet>

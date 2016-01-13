@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const reverse = require('lodash/reverse');
+]]></content>
+  <tabTrigger>r_reverse</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/reverse</description>
+</snippet>

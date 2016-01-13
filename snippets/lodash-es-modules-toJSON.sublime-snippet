@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toJSON from 'lodash/toJSON';
+]]></content>
+  <tabTrigger>i_toJSON</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toJSON</description>
+</snippet>

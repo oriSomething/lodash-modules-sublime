@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const cloneDeepWith = require('lodash/cloneDeepWith');
+]]></content>
+  <tabTrigger>r_cloneDeepWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/cloneDeepWith</description>
+</snippet>

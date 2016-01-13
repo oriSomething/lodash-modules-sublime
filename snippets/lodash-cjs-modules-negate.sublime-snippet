@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const negate = require('lodash/negate');
+]]></content>
+  <tabTrigger>r_negate</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/negate</description>
+</snippet>

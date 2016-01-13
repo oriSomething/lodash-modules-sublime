@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import math from 'lodash/math';
+]]></content>
+  <tabTrigger>i_math</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/math</description>
+</snippet>

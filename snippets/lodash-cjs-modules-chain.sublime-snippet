@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const chain = require('lodash/chain');
+]]></content>
+  <tabTrigger>r_chain</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chain</description>
+</snippet>

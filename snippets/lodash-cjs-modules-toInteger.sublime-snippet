@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toInteger = require('lodash/toInteger');
+]]></content>
+  <tabTrigger>r_toInteger</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toInteger</description>
+</snippet>

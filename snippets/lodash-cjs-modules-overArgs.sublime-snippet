@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const overArgs = require('lodash/overArgs');
+]]></content>
+  <tabTrigger>r_overArgs</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/overArgs</description>
+</snippet>

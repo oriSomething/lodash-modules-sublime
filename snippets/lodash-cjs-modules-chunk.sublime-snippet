@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const chunk = require('lodash/chunk');
+]]></content>
+  <tabTrigger>r_chunk</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/chunk</description>
+</snippet>

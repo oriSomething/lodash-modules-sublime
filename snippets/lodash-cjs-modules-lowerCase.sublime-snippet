@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const lowerCase = require('lodash/lowerCase');
+]]></content>
+  <tabTrigger>r_lowerCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lowerCase</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const intersectionBy = require('lodash/intersectionBy');
+]]></content>
+  <tabTrigger>r_intersectionBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/intersectionBy</description>
+</snippet>

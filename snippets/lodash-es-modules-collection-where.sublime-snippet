@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import where from 'lodash/collection/where';
-]]></content>
-  <tabTrigger>i_where</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/where</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var before = require('lodash/function/before');
-]]></content>
-  <tabTrigger>r_before</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/function/before</description>
-</snippet>

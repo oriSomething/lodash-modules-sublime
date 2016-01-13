@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const take = require('lodash/take');
+]]></content>
+  <tabTrigger>r_take</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/take</description>
+</snippet>

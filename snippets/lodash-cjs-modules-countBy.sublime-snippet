@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const countBy = require('lodash/countBy');
+]]></content>
+  <tabTrigger>r_countBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/countBy</description>
+</snippet>

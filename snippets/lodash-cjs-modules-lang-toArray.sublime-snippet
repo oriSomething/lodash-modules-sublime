@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var toArray = require('lodash/lang/toArray');
-]]></content>
-  <tabTrigger>r_toArray</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/toArray</description>
-</snippet>

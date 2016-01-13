@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const create = require('lodash/create');
+]]></content>
+  <tabTrigger>r_create</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/create</description>
+</snippet>

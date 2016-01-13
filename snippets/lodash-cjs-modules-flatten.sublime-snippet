@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const flatten = require('lodash/flatten');
+]]></content>
+  <tabTrigger>r_flatten</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/flatten</description>
+</snippet>

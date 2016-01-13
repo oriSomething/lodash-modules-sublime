@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isNative = require('lodash/lang/isNative');
-]]></content>
-  <tabTrigger>r_isNative</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isNative</description>
-</snippet>

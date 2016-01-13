@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var unique = require('lodash/array/unique');
-]]></content>
-  <tabTrigger>r_unique</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/unique</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isNil from 'lodash/isNil';
+]]></content>
+  <tabTrigger>i_isNil</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isNil</description>
+</snippet>

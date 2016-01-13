@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import function from 'lodash/function';
+]]></content>
+  <tabTrigger>i_function</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/function</description>
+</snippet>

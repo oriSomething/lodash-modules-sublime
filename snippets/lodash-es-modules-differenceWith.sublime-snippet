@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import differenceWith from 'lodash/differenceWith';
+]]></content>
+  <tabTrigger>i_differenceWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/differenceWith</description>
+</snippet>

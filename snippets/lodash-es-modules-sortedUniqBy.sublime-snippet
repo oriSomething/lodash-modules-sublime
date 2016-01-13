@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sortedUniqBy from 'lodash/sortedUniqBy';
+]]></content>
+  <tabTrigger>i_sortedUniqBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/sortedUniqBy</description>
+</snippet>

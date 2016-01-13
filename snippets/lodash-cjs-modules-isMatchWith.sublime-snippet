@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isMatchWith = require('lodash/isMatchWith');
+]]></content>
+  <tabTrigger>r_isMatchWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isMatchWith</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import unzipWith from 'lodash/unzipWith';
+]]></content>
+  <tabTrigger>i_unzipWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/unzipWith</description>
+</snippet>

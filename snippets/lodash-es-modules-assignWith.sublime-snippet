@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import assignWith from 'lodash/assignWith';
+]]></content>
+  <tabTrigger>i_assignWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/assignWith</description>
+</snippet>

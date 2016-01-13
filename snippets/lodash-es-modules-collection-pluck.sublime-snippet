@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import pluck from 'lodash/collection/pluck';
-]]></content>
-  <tabTrigger>i_pluck</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/pluck</description>
-</snippet>

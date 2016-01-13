@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import isRegExp from 'lodash/lang/isRegExp';
-]]></content>
-  <tabTrigger>i_isRegExp</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/lang/isRegExp</description>
-</snippet>

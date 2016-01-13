@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var indexOf = require('lodash/array/indexOf');
-]]></content>
-  <tabTrigger>r_indexOf</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/indexOf</description>
-</snippet>

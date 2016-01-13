@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var pluck = require('lodash/collection/pluck');
-]]></content>
-  <tabTrigger>r_pluck</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/pluck</description>
-</snippet>

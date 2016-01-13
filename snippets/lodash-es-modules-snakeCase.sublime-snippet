@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import snakeCase from 'lodash/snakeCase';
+]]></content>
+  <tabTrigger>i_snakeCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/snakeCase</description>
+</snippet>

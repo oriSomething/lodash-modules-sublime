@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const at = require('lodash/at');
+]]></content>
+  <tabTrigger>r_at</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/at</description>
+</snippet>

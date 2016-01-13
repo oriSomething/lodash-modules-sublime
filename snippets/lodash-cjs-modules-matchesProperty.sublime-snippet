@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const matchesProperty = require('lodash/matchesProperty');
+]]></content>
+  <tabTrigger>r_matchesProperty</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/matchesProperty</description>
+</snippet>

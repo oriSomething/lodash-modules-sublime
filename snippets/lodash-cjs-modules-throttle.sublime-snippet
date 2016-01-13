@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const throttle = require('lodash/throttle');
+]]></content>
+  <tabTrigger>r_throttle</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/throttle</description>
+</snippet>

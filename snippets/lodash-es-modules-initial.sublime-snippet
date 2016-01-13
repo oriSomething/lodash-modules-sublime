@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import initial from 'lodash/initial';
+]]></content>
+  <tabTrigger>i_initial</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/initial</description>
+</snippet>

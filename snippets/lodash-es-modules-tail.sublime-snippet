@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import tail from 'lodash/tail';
+]]></content>
+  <tabTrigger>i_tail</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/tail</description>
+</snippet>

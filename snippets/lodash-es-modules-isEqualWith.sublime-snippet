@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isEqualWith from 'lodash/isEqualWith';
+]]></content>
+  <tabTrigger>i_isEqualWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isEqualWith</description>
+</snippet>

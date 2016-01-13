@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toLength = require('lodash/toLength');
+]]></content>
+  <tabTrigger>r_toLength</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toLength</description>
+</snippet>

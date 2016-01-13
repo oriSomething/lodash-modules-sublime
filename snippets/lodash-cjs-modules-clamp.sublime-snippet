@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const clamp = require('lodash/clamp');
+]]></content>
+  <tabTrigger>r_clamp</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/clamp</description>
+</snippet>

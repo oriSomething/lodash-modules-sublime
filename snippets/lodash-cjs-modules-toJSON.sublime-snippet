@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toJSON = require('lodash/toJSON');
+]]></content>
+  <tabTrigger>r_toJSON</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toJSON</description>
+</snippet>

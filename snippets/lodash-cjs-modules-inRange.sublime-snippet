@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const inRange = require('lodash/inRange');
+]]></content>
+  <tabTrigger>r_inRange</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/inRange</description>
+</snippet>

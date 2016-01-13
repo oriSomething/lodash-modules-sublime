@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const omitBy = require('lodash/omitBy');
+]]></content>
+  <tabTrigger>r_omitBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/omitBy</description>
+</snippet>

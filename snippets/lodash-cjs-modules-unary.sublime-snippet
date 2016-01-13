@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const unary = require('lodash/unary');
+]]></content>
+  <tabTrigger>r_unary</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/unary</description>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import partition from 'lodash/collection/partition';
-]]></content>
-  <tabTrigger>i_partition</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/partition</description>
-</snippet>

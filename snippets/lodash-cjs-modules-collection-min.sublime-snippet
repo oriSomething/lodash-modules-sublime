@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var min = require('lodash/collection/min');
-]]></content>
-  <tabTrigger>r_min</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/min</description>
-</snippet>

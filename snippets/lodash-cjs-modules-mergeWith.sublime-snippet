@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const mergeWith = require('lodash/mergeWith');
+]]></content>
+  <tabTrigger>r_mergeWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/mergeWith</description>
+</snippet>

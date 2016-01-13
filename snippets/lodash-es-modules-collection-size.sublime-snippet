@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import size from 'lodash/collection/size';
-]]></content>
-  <tabTrigger>i_size</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/size</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import fill from 'lodash/array/fill';
-]]></content>
-  <tabTrigger>i_fill</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/fill</description>
-</snippet>

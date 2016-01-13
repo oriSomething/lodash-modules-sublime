@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import detect from 'lodash/collection/detect';
-]]></content>
-  <tabTrigger>i_detect</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/detect</description>
-</snippet>

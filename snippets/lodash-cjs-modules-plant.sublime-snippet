@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const plant = require('lodash/plant');
+]]></content>
+  <tabTrigger>r_plant</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/plant</description>
+</snippet>

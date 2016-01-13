@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const groupBy = require('lodash/groupBy');
+]]></content>
+  <tabTrigger>r_groupBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/groupBy</description>
+</snippet>

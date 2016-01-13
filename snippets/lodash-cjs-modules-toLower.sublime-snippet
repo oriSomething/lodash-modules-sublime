@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toLower = require('lodash/toLower');
+]]></content>
+  <tabTrigger>r_toLower</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toLower</description>
+</snippet>

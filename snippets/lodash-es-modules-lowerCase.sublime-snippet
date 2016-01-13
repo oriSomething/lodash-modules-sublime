@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import lowerCase from 'lodash/lowerCase';
+]]></content>
+  <tabTrigger>i_lowerCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lowerCase</description>
+</snippet>

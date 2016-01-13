@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import truncate from 'lodash/truncate';
+]]></content>
+  <tabTrigger>i_truncate</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/truncate</description>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import callback from 'lodash/utility/callback';
-]]></content>
-  <tabTrigger>i_callback</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/utility/callback</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import defaults from 'lodash/defaults';
+]]></content>
+  <tabTrigger>i_defaults</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/defaults</description>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var invoke = require('lodash/collection/invoke');
-]]></content>
-  <tabTrigger>r_invoke</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/invoke</description>
-</snippet>

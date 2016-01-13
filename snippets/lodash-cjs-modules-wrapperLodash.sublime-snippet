@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const wrapperLodash = require('lodash/wrapperLodash');
+]]></content>
+  <tabTrigger>r_wrapperLodash</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/wrapperLodash</description>
+</snippet>

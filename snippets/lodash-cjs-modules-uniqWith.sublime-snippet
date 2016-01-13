@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const uniqWith = require('lodash/uniqWith');
+]]></content>
+  <tabTrigger>r_uniqWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/uniqWith</description>
+</snippet>

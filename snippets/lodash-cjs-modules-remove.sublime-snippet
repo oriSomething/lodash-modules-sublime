@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const remove = require('lodash/remove');
+]]></content>
+  <tabTrigger>r_remove</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/remove</description>
+</snippet>

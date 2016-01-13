@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const maxBy = require('lodash/maxBy');
+]]></content>
+  <tabTrigger>r_maxBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/maxBy</description>
+</snippet>

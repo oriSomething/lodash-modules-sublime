@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import flatMap from 'lodash/flatMap';
+]]></content>
+  <tabTrigger>i_flatMap</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/flatMap</description>
+</snippet>

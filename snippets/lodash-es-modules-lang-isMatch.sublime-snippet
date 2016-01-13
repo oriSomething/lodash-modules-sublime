@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import isMatch from 'lodash/lang/isMatch';
-]]></content>
-  <tabTrigger>i_isMatch</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/lang/isMatch</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var constant = require('lodash/utility/constant');
-]]></content>
-  <tabTrigger>r_constant</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/utility/constant</description>
-</snippet>

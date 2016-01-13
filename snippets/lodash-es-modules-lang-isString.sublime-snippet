@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import isString from 'lodash/lang/isString';
-]]></content>
-  <tabTrigger>i_isString</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/lang/isString</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import next from 'lodash/next';
+]]></content>
+  <tabTrigger>i_next</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/next</description>
+</snippet>

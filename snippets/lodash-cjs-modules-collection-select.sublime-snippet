@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var select = require('lodash/collection/select');
-]]></content>
-  <tabTrigger>r_select</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/select</description>
-</snippet>

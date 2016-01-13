@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var first = require('lodash/array/first');
-]]></content>
-  <tabTrigger>r_first</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/first</description>
-</snippet>

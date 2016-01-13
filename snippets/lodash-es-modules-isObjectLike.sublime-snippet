@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isObjectLike from 'lodash/isObjectLike';
+]]></content>
+  <tabTrigger>i_isObjectLike</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isObjectLike</description>
+</snippet>

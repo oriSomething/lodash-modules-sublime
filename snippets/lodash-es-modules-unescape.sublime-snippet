@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import unescape from 'lodash/unescape';
+]]></content>
+  <tabTrigger>i_unescape</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/unescape</description>
+</snippet>

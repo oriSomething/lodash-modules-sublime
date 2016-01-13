@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const split = require('lodash/split');
+]]></content>
+  <tabTrigger>r_split</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/split</description>
+</snippet>

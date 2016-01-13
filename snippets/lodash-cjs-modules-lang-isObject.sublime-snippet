@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isObject = require('lodash/lang/isObject');
-]]></content>
-  <tabTrigger>r_isObject</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isObject</description>
-</snippet>

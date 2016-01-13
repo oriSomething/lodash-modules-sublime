@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toPairsIn from 'lodash/toPairsIn';
+]]></content>
+  <tabTrigger>i_toPairsIn</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toPairsIn</description>
+</snippet>

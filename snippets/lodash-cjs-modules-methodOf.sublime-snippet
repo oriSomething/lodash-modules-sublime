@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const methodOf = require('lodash/methodOf');
+]]></content>
+  <tabTrigger>r_methodOf</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/methodOf</description>
+</snippet>

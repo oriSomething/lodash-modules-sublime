@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import trimStart from 'lodash/trimStart';
+]]></content>
+  <tabTrigger>i_trimStart</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/trimStart</description>
+</snippet>

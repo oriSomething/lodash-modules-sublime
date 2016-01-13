@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var tail = require('lodash/array/tail');
-]]></content>
-  <tabTrigger>r_tail</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/tail</description>
-</snippet>

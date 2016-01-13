@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import uniqueId from 'lodash/utility/uniqueId';
-]]></content>
-  <tabTrigger>i_uniqueId</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/utility/uniqueId</description>
-</snippet>

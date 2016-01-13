@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var max = require('lodash/collection/max');
-]]></content>
-  <tabTrigger>r_max</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/max</description>
-</snippet>

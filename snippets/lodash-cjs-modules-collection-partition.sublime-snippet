@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var partition = require('lodash/collection/partition');
-]]></content>
-  <tabTrigger>r_partition</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/partition</description>
-</snippet>

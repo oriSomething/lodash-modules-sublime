@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import random from 'lodash/random';
+]]></content>
+  <tabTrigger>i_random</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/random</description>
+</snippet>

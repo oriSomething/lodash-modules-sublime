@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const wrapperChain = require('lodash/wrapperChain');
+]]></content>
+  <tabTrigger>r_wrapperChain</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/wrapperChain</description>
+</snippet>

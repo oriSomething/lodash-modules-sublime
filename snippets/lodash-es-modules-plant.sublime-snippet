@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import plant from 'lodash/plant';
+]]></content>
+  <tabTrigger>i_plant</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/plant</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const sortedLastIndexOf = require('lodash/sortedLastIndexOf');
+]]></content>
+  <tabTrigger>r_sortedLastIndexOf</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/sortedLastIndexOf</description>
+</snippet>

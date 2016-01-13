@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import backflow from 'lodash/function/backflow';
-]]></content>
-  <tabTrigger>i_backflow</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/function/backflow</description>
-</snippet>

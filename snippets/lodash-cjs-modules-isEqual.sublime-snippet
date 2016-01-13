@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isEqual = require('lodash/isEqual');
+]]></content>
+  <tabTrigger>r_isEqual</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isEqual</description>
+</snippet>

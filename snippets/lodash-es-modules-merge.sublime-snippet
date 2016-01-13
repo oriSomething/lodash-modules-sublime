@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import merge from 'lodash/merge';
+]]></content>
+  <tabTrigger>i_merge</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/merge</description>
+</snippet>

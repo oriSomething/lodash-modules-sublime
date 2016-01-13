@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const unionBy = require('lodash/unionBy');
+]]></content>
+  <tabTrigger>r_unionBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/unionBy</description>
+</snippet>

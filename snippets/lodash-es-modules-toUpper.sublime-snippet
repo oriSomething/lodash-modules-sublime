@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toUpper from 'lodash/toUpper';
+]]></content>
+  <tabTrigger>i_toUpper</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toUpper</description>
+</snippet>

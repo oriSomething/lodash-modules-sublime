@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import _isFinite from 'lodash/isFinite';
+]]></content>
+  <tabTrigger>i_isFinite</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isFinite</description>
+</snippet>

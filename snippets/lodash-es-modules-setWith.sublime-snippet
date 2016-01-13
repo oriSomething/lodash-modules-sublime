@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import setWith from 'lodash/setWith';
+]]></content>
+  <tabTrigger>i_setWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/setWith</description>
+</snippet>

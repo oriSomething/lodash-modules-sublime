@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import wrapperFlatMap from 'lodash/wrapperFlatMap';
+]]></content>
+  <tabTrigger>i_wrapperFlatMap</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/wrapperFlatMap</description>
+</snippet>

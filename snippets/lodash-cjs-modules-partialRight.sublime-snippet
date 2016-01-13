@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const partialRight = require('lodash/partialRight');
+]]></content>
+  <tabTrigger>r_partialRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/partialRight</description>
+</snippet>

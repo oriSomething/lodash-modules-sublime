@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const filter = require('lodash/filter');
+]]></content>
+  <tabTrigger>r_filter</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/filter</description>
+</snippet>

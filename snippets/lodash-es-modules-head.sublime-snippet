@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import head from 'lodash/head';
+]]></content>
+  <tabTrigger>i_head</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/head</description>
+</snippet>

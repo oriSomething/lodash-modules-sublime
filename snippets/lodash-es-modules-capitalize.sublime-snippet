@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import capitalize from 'lodash/capitalize';
+]]></content>
+  <tabTrigger>i_capitalize</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/capitalize</description>
+</snippet>

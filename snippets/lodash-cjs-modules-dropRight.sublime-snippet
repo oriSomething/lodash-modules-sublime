@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const dropRight = require('lodash/dropRight');
+]]></content>
+  <tabTrigger>r_dropRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/dropRight</description>
+</snippet>

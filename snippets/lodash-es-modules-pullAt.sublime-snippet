@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import pullAt from 'lodash/pullAt';
+]]></content>
+  <tabTrigger>i_pullAt</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/pullAt</description>
+</snippet>

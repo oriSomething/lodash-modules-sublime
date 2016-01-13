@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isArguments = require('lodash/isArguments');
+]]></content>
+  <tabTrigger>r_isArguments</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isArguments</description>
+</snippet>

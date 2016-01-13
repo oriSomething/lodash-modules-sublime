@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import difference from 'lodash/array/difference';
-]]></content>
-  <tabTrigger>i_difference</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/difference</description>
-</snippet>

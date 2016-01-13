@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toLower from 'lodash/toLower';
+]]></content>
+  <tabTrigger>i_toLower</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toLower</description>
+</snippet>

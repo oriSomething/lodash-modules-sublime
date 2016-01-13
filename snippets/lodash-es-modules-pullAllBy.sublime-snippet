@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import pullAllBy from 'lodash/pullAllBy';
+]]></content>
+  <tabTrigger>i_pullAllBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/pullAllBy</description>
+</snippet>

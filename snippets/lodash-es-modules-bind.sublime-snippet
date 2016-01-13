@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import bind from 'lodash/bind';
+]]></content>
+  <tabTrigger>i_bind</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/bind</description>
+</snippet>

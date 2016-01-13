@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var callback = require('lodash/utility/callback');
-]]></content>
-  <tabTrigger>r_callback</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/utility/callback</description>
-</snippet>

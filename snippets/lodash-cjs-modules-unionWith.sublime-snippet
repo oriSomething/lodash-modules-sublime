@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const unionWith = require('lodash/unionWith');
+]]></content>
+  <tabTrigger>r_unionWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/unionWith</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import conforms from 'lodash/conforms';
+]]></content>
+  <tabTrigger>i_conforms</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/conforms</description>
+</snippet>

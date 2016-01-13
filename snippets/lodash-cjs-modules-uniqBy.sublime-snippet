@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const uniqBy = require('lodash/uniqBy');
+]]></content>
+  <tabTrigger>r_uniqBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/uniqBy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import forOwnRight from 'lodash/forOwnRight';
+]]></content>
+  <tabTrigger>i_forOwnRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/forOwnRight</description>
+</snippet>

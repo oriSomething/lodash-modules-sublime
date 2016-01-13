@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import last from 'lodash/array/last';
-]]></content>
-  <tabTrigger>i_last</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/last</description>
-</snippet>

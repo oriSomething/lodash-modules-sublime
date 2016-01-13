@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const conforms = require('lodash/conforms');
+]]></content>
+  <tabTrigger>r_conforms</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/conforms</description>
+</snippet>

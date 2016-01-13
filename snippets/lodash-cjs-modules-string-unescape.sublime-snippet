@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var unescape = require('lodash/string/unescape');
-]]></content>
-  <tabTrigger>r_unescape</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/string/unescape</description>
-</snippet>

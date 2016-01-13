@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var compact = require('lodash/array/compact');
-]]></content>
-  <tabTrigger>r_compact</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/compact</description>
-</snippet>

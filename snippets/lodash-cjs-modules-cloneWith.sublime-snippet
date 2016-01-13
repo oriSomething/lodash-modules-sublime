@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const cloneWith = require('lodash/cloneWith');
+]]></content>
+  <tabTrigger>r_cloneWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/cloneWith</description>
+</snippet>

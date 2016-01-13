@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isObject = require('lodash/isObject');
+]]></content>
+  <tabTrigger>r_isObject</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isObject</description>
+</snippet>

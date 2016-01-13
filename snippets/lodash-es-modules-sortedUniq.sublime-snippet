@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sortedUniq from 'lodash/sortedUniq';
+]]></content>
+  <tabTrigger>i_sortedUniq</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/sortedUniq</description>
+</snippet>

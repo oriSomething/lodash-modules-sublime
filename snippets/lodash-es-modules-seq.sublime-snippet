@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import seq from 'lodash/seq';
+]]></content>
+  <tabTrigger>i_seq</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/seq</description>
+</snippet>

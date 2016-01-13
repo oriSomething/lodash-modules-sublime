@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const padStart = require('lodash/padStart');
+]]></content>
+  <tabTrigger>r_padStart</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/padStart</description>
+</snippet>

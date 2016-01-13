@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const memoize = require('lodash/memoize');
+]]></content>
+  <tabTrigger>r_memoize</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/memoize</description>
+</snippet>

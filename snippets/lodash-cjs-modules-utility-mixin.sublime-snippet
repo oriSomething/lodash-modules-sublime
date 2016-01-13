@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var mixin = require('lodash/utility/mixin');
-]]></content>
-  <tabTrigger>r_mixin</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/utility/mixin</description>
-</snippet>

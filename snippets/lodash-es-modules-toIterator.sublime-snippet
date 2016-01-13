@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toIterator from 'lodash/toIterator';
+]]></content>
+  <tabTrigger>i_toIterator</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toIterator</description>
+</snippet>

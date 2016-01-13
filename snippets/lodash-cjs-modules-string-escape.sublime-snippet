@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var escape = require('lodash/string/escape');
-]]></content>
-  <tabTrigger>r_escape</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/string/escape</description>
-</snippet>

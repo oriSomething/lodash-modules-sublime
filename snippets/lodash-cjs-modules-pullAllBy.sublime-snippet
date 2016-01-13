@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const pullAllBy = require('lodash/pullAllBy');
+]]></content>
+  <tabTrigger>r_pullAllBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/pullAllBy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const assignWith = require('lodash/assignWith');
+]]></content>
+  <tabTrigger>r_assignWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/assignWith</description>
+</snippet>

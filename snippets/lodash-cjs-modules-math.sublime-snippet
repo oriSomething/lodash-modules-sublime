@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const math = require('lodash/math');
+]]></content>
+  <tabTrigger>r_math</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/math</description>
+</snippet>

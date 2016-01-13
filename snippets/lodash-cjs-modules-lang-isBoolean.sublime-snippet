@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isBoolean = require('lodash/lang/isBoolean');
-]]></content>
-  <tabTrigger>r_isBoolean</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isBoolean</description>
-</snippet>

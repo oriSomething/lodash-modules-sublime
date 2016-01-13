@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const subtract = require('lodash/subtract');
+]]></content>
+  <tabTrigger>r_subtract</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/subtract</description>
+</snippet>

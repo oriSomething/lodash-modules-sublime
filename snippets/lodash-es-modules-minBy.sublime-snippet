@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import minBy from 'lodash/minBy';
+]]></content>
+  <tabTrigger>i_minBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/minBy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import every from 'lodash/every';
+]]></content>
+  <tabTrigger>i_every</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/every</description>
+</snippet>

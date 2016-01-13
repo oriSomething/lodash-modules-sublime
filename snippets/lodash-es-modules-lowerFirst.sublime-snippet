@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import lowerFirst from 'lodash/lowerFirst';
+]]></content>
+  <tabTrigger>i_lowerFirst</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lowerFirst</description>
+</snippet>

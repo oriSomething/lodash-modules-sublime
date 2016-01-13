@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const get = require('lodash/get');
+]]></content>
+  <tabTrigger>r_get</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/get</description>
+</snippet>

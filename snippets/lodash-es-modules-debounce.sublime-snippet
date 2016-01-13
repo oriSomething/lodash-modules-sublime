@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import debounce from 'lodash/debounce';
+]]></content>
+  <tabTrigger>i_debounce</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/debounce</description>
+</snippet>

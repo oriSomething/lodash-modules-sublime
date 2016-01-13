@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import rearg from 'lodash/function/rearg';
-]]></content>
-  <tabTrigger>i_rearg</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/function/rearg</description>
-</snippet>

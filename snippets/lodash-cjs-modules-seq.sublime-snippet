@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const seq = require('lodash/seq');
+]]></content>
+  <tabTrigger>r_seq</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/seq</description>
+</snippet>

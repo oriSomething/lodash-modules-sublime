@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var debounce = require('lodash/function/debounce');
-]]></content>
-  <tabTrigger>r_debounce</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/function/debounce</description>
-</snippet>

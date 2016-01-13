@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var kebabCase = require('lodash/string/kebabCase');
-]]></content>
-  <tabTrigger>r_kebabCase</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/string/kebabCase</description>
-</snippet>

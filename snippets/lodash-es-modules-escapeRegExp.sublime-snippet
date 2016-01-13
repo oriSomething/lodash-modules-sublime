@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import escapeRegExp from 'lodash/escapeRegExp';
+]]></content>
+  <tabTrigger>i_escapeRegExp</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/escapeRegExp</description>
+</snippet>

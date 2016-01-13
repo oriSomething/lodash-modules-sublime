@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import dropRight from 'lodash/dropRight';
+]]></content>
+  <tabTrigger>i_dropRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/dropRight</description>
+</snippet>

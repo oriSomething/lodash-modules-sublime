@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const bindKey = require('lodash/bindKey');
+]]></content>
+  <tabTrigger>r_bindKey</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/bindKey</description>
+</snippet>

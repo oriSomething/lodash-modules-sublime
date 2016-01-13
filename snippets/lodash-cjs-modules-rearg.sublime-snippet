@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const rearg = require('lodash/rearg');
+]]></content>
+  <tabTrigger>r_rearg</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/rearg</description>
+</snippet>

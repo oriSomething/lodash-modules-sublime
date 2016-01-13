@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import delay from 'lodash/delay';
+]]></content>
+  <tabTrigger>i_delay</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/delay</description>
+</snippet>

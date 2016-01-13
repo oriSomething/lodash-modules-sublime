@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toPairs = require('lodash/toPairs');
+]]></content>
+  <tabTrigger>r_toPairs</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toPairs</description>
+</snippet>

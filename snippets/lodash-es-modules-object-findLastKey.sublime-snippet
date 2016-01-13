@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import findLastKey from 'lodash/object/findLastKey';
-]]></content>
-  <tabTrigger>i_findLastKey</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/object/findLastKey</description>
-</snippet>

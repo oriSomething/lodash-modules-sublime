@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import dropRightWhile from 'lodash/dropRightWhile';
+]]></content>
+  <tabTrigger>i_dropRightWhile</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/dropRightWhile</description>
+</snippet>

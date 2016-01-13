@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const sortedIndexBy = require('lodash/sortedIndexBy');
+]]></content>
+  <tabTrigger>r_sortedIndexBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/sortedIndexBy</description>
+</snippet>

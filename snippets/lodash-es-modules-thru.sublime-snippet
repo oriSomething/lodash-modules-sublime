@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import thru from 'lodash/thru';
+]]></content>
+  <tabTrigger>i_thru</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/thru</description>
+</snippet>

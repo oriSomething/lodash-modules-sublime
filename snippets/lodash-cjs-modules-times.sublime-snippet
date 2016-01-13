@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const times = require('lodash/times');
+]]></content>
+  <tabTrigger>r_times</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/times</description>
+</snippet>

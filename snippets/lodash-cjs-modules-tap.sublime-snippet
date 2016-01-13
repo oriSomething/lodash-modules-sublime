@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const tap = require('lodash/tap');
+]]></content>
+  <tabTrigger>r_tap</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/tap</description>
+</snippet>

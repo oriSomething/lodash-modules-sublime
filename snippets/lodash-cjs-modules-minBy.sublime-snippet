@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const minBy = require('lodash/minBy');
+]]></content>
+  <tabTrigger>r_minBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/minBy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const overSome = require('lodash/overSome');
+]]></content>
+  <tabTrigger>r_overSome</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/overSome</description>
+</snippet>

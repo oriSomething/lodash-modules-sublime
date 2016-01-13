@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import invert from 'lodash/object/invert';
-]]></content>
-  <tabTrigger>i_invert</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/object/invert</description>
-</snippet>

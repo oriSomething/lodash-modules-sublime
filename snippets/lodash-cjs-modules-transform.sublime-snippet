@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const transform = require('lodash/transform');
+]]></content>
+  <tabTrigger>r_transform</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/transform</description>
+</snippet>

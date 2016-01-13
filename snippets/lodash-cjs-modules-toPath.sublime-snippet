@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toPath = require('lodash/toPath');
+]]></content>
+  <tabTrigger>r_toPath</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toPath</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sortedLastIndexOf from 'lodash/sortedLastIndexOf';
+]]></content>
+  <tabTrigger>i_sortedLastIndexOf</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/sortedLastIndexOf</description>
+</snippet>

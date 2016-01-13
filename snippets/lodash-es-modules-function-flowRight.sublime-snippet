@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import flowRight from 'lodash/function/flowRight';
-]]></content>
-  <tabTrigger>i_flowRight</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/function/flowRight</description>
-</snippet>

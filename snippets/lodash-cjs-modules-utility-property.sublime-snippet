@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var property = require('lodash/utility/property');
-]]></content>
-  <tabTrigger>r_property</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/utility/property</description>
-</snippet>

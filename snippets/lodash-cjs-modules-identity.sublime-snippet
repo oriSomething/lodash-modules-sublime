@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const identity = require('lodash/identity');
+]]></content>
+  <tabTrigger>r_identity</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/identity</description>
+</snippet>

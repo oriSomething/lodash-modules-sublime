@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const concat = require('lodash/concat');
+]]></content>
+  <tabTrigger>r_concat</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/concat</description>
+</snippet>

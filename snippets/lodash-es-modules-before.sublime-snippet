@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import before from 'lodash/before';
+]]></content>
+  <tabTrigger>i_before</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/before</description>
+</snippet>

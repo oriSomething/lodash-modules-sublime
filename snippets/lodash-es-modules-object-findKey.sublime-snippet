@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import findKey from 'lodash/object/findKey';
-]]></content>
-  <tabTrigger>i_findKey</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/object/findKey</description>
-</snippet>

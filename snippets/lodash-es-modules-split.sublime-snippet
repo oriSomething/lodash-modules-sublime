@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import split from 'lodash/split';
+]]></content>
+  <tabTrigger>i_split</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/split</description>
+</snippet>

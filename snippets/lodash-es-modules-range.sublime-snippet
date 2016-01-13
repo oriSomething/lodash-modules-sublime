@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import range from 'lodash/range';
+]]></content>
+  <tabTrigger>i_range</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/range</description>
+</snippet>

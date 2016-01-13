@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const reject = require('lodash/reject');
+]]></content>
+  <tabTrigger>r_reject</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/reject</description>
+</snippet>

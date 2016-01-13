@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const deburr = require('lodash/deburr');
+]]></content>
+  <tabTrigger>r_deburr</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/deburr</description>
+</snippet>

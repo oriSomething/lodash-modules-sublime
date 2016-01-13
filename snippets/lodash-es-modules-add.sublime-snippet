@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import add from 'lodash/add';
+]]></content>
+  <tabTrigger>i_add</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/add</description>
+</snippet>

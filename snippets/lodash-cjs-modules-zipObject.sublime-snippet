@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const zipObject = require('lodash/zipObject');
+]]></content>
+  <tabTrigger>r_zipObject</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/zipObject</description>
+</snippet>

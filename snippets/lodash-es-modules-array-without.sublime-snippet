@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import without from 'lodash/array/without';
-]]></content>
-  <tabTrigger>i_without</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/without</description>
-</snippet>

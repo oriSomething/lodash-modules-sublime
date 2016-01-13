@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import pad from 'lodash/string/pad';
-]]></content>
-  <tabTrigger>i_pad</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/string/pad</description>
-</snippet>

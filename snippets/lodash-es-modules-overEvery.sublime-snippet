@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import overEvery from 'lodash/overEvery';
+]]></content>
+  <tabTrigger>i_overEvery</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/overEvery</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const pad = require('lodash/pad');
+]]></content>
+  <tabTrigger>r_pad</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/pad</description>
+</snippet>

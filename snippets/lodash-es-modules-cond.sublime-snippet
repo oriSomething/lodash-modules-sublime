@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import cond from 'lodash/cond';
+]]></content>
+  <tabTrigger>i_cond</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/cond</description>
+</snippet>

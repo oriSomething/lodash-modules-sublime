@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const flip = require('lodash/flip');
+]]></content>
+  <tabTrigger>r_flip</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/flip</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const findLastIndex = require('lodash/findLastIndex');
+]]></content>
+  <tabTrigger>r_findLastIndex</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/findLastIndex</description>
+</snippet>

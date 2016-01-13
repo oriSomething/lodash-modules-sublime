@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import cloneDeep from 'lodash/lang/cloneDeep';
-]]></content>
-  <tabTrigger>i_cloneDeep</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/lang/cloneDeep</description>
-</snippet>

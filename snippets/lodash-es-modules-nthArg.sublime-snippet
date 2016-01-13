@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import nthArg from 'lodash/nthArg';
+]]></content>
+  <tabTrigger>i_nthArg</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/nthArg</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import flip from 'lodash/flip';
+]]></content>
+  <tabTrigger>i_flip</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/flip</description>
+</snippet>

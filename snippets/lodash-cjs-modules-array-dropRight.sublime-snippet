@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var dropRight = require('lodash/array/dropRight');
-]]></content>
-  <tabTrigger>r_dropRight</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/dropRight</description>
-</snippet>

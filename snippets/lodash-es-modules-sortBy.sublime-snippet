@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import sortBy from 'lodash/sortBy';
+]]></content>
+  <tabTrigger>i_sortBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/sortBy</description>
+</snippet>

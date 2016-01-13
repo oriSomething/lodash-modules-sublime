@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toSafeInteger = require('lodash/toSafeInteger');
+]]></content>
+  <tabTrigger>r_toSafeInteger</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toSafeInteger</description>
+</snippet>

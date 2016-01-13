@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const size = require('lodash/size');
+]]></content>
+  <tabTrigger>r_size</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/size</description>
+</snippet>

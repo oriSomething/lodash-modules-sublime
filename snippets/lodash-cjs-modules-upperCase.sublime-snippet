@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const upperCase = require('lodash/upperCase');
+]]></content>
+  <tabTrigger>r_upperCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/upperCase</description>
+</snippet>

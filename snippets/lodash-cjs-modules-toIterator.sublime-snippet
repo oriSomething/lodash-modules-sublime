@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toIterator = require('lodash/toIterator');
+]]></content>
+  <tabTrigger>r_toIterator</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toIterator</description>
+</snippet>

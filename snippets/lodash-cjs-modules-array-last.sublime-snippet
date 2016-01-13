@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var last = require('lodash/array/last');
-]]></content>
-  <tabTrigger>r_last</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/array/last</description>
-</snippet>

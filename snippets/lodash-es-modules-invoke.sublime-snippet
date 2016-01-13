@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import invoke from 'lodash/invoke';
+]]></content>
+  <tabTrigger>i_invoke</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/invoke</description>
+</snippet>

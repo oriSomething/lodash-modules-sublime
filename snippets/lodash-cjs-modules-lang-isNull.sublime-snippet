@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isNull = require('lodash/lang/isNull');
-]]></content>
-  <tabTrigger>r_isNull</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isNull</description>
-</snippet>

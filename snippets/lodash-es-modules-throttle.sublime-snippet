@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import throttle from 'lodash/throttle';
+]]></content>
+  <tabTrigger>i_throttle</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/throttle</description>
+</snippet>

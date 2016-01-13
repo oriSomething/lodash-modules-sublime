@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toInteger from 'lodash/toInteger';
+]]></content>
+  <tabTrigger>i_toInteger</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toInteger</description>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import partialRight from 'lodash/function/partialRight';
-]]></content>
-  <tabTrigger>i_partialRight</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/function/partialRight</description>
-</snippet>

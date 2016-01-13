@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import matches from 'lodash/matches';
+]]></content>
+  <tabTrigger>i_matches</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/matches</description>
+</snippet>

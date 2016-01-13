@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const compact = require('lodash/compact');
+]]></content>
+  <tabTrigger>r_compact</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/compact</description>
+</snippet>

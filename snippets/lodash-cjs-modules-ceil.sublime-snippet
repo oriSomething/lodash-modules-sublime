@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const ceil = require('lodash/ceil');
+]]></content>
+  <tabTrigger>r_ceil</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/ceil</description>
+</snippet>

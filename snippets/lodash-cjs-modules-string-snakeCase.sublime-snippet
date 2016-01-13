@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var snakeCase = require('lodash/string/snakeCase');
-]]></content>
-  <tabTrigger>r_snakeCase</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/string/snakeCase</description>
-</snippet>

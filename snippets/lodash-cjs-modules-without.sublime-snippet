@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const without = require('lodash/without');
+]]></content>
+  <tabTrigger>r_without</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/without</description>
+</snippet>

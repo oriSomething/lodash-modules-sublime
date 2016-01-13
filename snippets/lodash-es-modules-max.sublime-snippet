@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import max from 'lodash/max';
+]]></content>
+  <tabTrigger>i_max</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/max</description>
+</snippet>

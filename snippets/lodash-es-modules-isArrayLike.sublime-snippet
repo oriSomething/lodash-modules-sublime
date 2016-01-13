@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isArrayLike from 'lodash/isArrayLike';
+]]></content>
+  <tabTrigger>i_isArrayLike</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isArrayLike</description>
+</snippet>

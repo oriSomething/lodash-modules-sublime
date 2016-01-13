@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import now from 'lodash/now';
+]]></content>
+  <tabTrigger>i_now</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/now</description>
+</snippet>

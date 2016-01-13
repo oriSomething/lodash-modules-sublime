@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import templateSettings from 'lodash/templateSettings';
+]]></content>
+  <tabTrigger>i_templateSettings</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/templateSettings</description>
+</snippet>

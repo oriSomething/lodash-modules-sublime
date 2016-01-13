@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var foldr = require('lodash/collection/foldr');
-]]></content>
-  <tabTrigger>r_foldr</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/foldr</description>
-</snippet>

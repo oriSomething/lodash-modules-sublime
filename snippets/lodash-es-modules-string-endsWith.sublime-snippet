@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import endsWith from 'lodash/string/endsWith';
-]]></content>
-  <tabTrigger>i_endsWith</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/string/endsWith</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import unionBy from 'lodash/unionBy';
+]]></content>
+  <tabTrigger>i_unionBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/unionBy</description>
+</snippet>

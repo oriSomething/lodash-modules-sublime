@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const replace = require('lodash/replace');
+]]></content>
+  <tabTrigger>r_replace</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/replace</description>
+</snippet>

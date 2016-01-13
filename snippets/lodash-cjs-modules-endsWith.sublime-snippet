@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const endsWith = require('lodash/endsWith');
+]]></content>
+  <tabTrigger>r_endsWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/endsWith</description>
+</snippet>

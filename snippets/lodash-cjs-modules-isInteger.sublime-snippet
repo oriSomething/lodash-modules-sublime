@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isInteger = require('lodash/isInteger');
+]]></content>
+  <tabTrigger>r_isInteger</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isInteger</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const upperFirst = require('lodash/upperFirst');
+]]></content>
+  <tabTrigger>r_upperFirst</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/upperFirst</description>
+</snippet>

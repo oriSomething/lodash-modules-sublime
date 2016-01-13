@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const _isNaN = require('lodash/isNaN');
+]]></content>
+  <tabTrigger>r_isNaN</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isNaN</description>
+</snippet>

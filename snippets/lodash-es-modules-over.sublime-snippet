@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import over from 'lodash/over';
+]]></content>
+  <tabTrigger>i_over</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/over</description>
+</snippet>

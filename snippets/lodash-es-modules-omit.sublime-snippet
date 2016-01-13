@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import omit from 'lodash/omit';
+]]></content>
+  <tabTrigger>i_omit</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/omit</description>
+</snippet>

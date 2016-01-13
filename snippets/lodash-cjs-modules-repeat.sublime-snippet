@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const repeat = require('lodash/repeat');
+]]></content>
+  <tabTrigger>r_repeat</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/repeat</description>
+</snippet>

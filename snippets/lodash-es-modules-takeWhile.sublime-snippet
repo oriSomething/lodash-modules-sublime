@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import takeWhile from 'lodash/takeWhile';
+]]></content>
+  <tabTrigger>i_takeWhile</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/takeWhile</description>
+</snippet>

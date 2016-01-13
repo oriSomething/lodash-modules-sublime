@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import takeRight from 'lodash/takeRight';
+]]></content>
+  <tabTrigger>i_takeRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/takeRight</description>
+</snippet>

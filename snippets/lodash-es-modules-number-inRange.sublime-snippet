@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import inRange from 'lodash/number/inRange';
-]]></content>
-  <tabTrigger>i_inRange</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/number/inRange</description>
-</snippet>

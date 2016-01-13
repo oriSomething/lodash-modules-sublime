@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const trimEnd = require('lodash/trimEnd');
+]]></content>
+  <tabTrigger>r_trimEnd</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/trimEnd</description>
+</snippet>

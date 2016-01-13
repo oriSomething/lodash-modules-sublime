@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import forEachRight from 'lodash/forEachRight';
+]]></content>
+  <tabTrigger>i_forEachRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/forEachRight</description>
+</snippet>

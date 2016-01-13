@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import create from 'lodash/create';
+]]></content>
+  <tabTrigger>i_create</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/create</description>
+</snippet>

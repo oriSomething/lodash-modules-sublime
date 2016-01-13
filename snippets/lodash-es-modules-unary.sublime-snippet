@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import unary from 'lodash/unary';
+]]></content>
+  <tabTrigger>i_unary</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/unary</description>
+</snippet>

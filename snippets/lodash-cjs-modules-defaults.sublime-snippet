@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const defaults = require('lodash/defaults');
+]]></content>
+  <tabTrigger>r_defaults</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/defaults</description>
+</snippet>

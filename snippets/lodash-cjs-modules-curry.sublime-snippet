@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const curry = require('lodash/curry');
+]]></content>
+  <tabTrigger>r_curry</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/curry</description>
+</snippet>

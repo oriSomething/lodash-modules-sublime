@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const rangeRight = require('lodash/rangeRight');
+]]></content>
+  <tabTrigger>r_rangeRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/rangeRight</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const zip = require('lodash/zip');
+]]></content>
+  <tabTrigger>r_zip</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/zip</description>
+</snippet>

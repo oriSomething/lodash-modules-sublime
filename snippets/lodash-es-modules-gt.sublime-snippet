@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import gt from 'lodash/gt';
+]]></content>
+  <tabTrigger>i_gt</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/gt</description>
+</snippet>

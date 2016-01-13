@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const matches = require('lodash/matches');
+]]></content>
+  <tabTrigger>r_matches</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/matches</description>
+</snippet>

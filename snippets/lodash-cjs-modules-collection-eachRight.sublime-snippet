@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var eachRight = require('lodash/collection/eachRight');
-]]></content>
-  <tabTrigger>r_eachRight</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/eachRight</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import union from 'lodash/array/union';
-]]></content>
-  <tabTrigger>i_union</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/union</description>
-</snippet>

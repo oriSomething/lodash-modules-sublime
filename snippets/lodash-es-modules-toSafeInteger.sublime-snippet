@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import toSafeInteger from 'lodash/toSafeInteger';
+]]></content>
+  <tabTrigger>i_toSafeInteger</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/toSafeInteger</description>
+</snippet>

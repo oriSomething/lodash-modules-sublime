@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var indexBy = require('lodash/collection/indexBy');
-]]></content>
-  <tabTrigger>r_indexBy</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/indexBy</description>
-</snippet>

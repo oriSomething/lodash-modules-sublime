@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import tap from 'lodash/tap';
+]]></content>
+  <tabTrigger>i_tap</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/tap</description>
+</snippet>

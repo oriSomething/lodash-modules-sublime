@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import spread from 'lodash/spread';
+]]></content>
+  <tabTrigger>i_spread</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/spread</description>
+</snippet>

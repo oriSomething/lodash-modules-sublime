@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var iteratee = require('lodash/utility/iteratee');
-]]></content>
-  <tabTrigger>r_iteratee</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/utility/iteratee</description>
-</snippet>

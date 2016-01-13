@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var once = require('lodash/function/once');
-]]></content>
-  <tabTrigger>r_once</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/function/once</description>
-</snippet>

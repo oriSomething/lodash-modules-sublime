@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const nthArg = require('lodash/nthArg');
+]]></content>
+  <tabTrigger>r_nthArg</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/nthArg</description>
+</snippet>

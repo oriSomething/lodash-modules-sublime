@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const set = require('lodash/set');
+]]></content>
+  <tabTrigger>r_set</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/set</description>
+</snippet>

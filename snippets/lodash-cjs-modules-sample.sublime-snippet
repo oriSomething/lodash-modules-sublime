@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const sample = require('lodash/sample');
+]]></content>
+  <tabTrigger>r_sample</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/sample</description>
+</snippet>

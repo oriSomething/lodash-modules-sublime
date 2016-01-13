@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import iteratee from 'lodash/utility/iteratee';
-]]></content>
-  <tabTrigger>i_iteratee</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/utility/iteratee</description>
-</snippet>

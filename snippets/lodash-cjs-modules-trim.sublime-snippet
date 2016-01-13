@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const trim = require('lodash/trim');
+]]></content>
+  <tabTrigger>r_trim</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/trim</description>
+</snippet>

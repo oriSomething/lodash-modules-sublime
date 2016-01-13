@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isSafeInteger = require('lodash/isSafeInteger');
+]]></content>
+  <tabTrigger>r_isSafeInteger</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isSafeInteger</description>
+</snippet>

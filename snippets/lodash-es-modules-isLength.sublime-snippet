@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isLength from 'lodash/isLength';
+]]></content>
+  <tabTrigger>i_isLength</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isLength</description>
+</snippet>

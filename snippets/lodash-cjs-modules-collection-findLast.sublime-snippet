@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var findLast = require('lodash/collection/findLast');
-]]></content>
-  <tabTrigger>r_findLast</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/findLast</description>
-</snippet>

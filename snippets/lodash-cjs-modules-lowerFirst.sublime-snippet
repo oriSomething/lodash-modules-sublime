@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const lowerFirst = require('lodash/lowerFirst');
+]]></content>
+  <tabTrigger>r_lowerFirst</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/lowerFirst</description>
+</snippet>

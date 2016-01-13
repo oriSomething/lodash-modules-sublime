@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const shuffle = require('lodash/shuffle');
+]]></content>
+  <tabTrigger>r_shuffle</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/shuffle</description>
+</snippet>

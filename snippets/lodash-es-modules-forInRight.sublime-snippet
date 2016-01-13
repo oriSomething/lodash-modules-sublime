@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import forInRight from 'lodash/forInRight';
+]]></content>
+  <tabTrigger>i_forInRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/forInRight</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import lang from 'lodash/lang';
+]]></content>
+  <tabTrigger>i_lang</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/lang</description>
+</snippet>

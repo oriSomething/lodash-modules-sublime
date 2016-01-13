@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import pickBy from 'lodash/pickBy';
+]]></content>
+  <tabTrigger>i_pickBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/pickBy</description>
+</snippet>

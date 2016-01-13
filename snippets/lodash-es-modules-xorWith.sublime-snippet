@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import xorWith from 'lodash/xorWith';
+]]></content>
+  <tabTrigger>i_xorWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/xorWith</description>
+</snippet>

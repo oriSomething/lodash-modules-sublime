@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import number from 'lodash/number';
+]]></content>
+  <tabTrigger>i_number</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/number</description>
+</snippet>

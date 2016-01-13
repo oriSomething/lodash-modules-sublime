@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var defer = require('lodash/function/defer');
-]]></content>
-  <tabTrigger>r_defer</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/function/defer</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const flatMap = require('lodash/flatMap');
+]]></content>
+  <tabTrigger>r_flatMap</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/flatMap</description>
+</snippet>

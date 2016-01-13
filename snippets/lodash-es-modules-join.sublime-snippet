@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import join from 'lodash/join';
+]]></content>
+  <tabTrigger>i_join</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/join</description>
+</snippet>

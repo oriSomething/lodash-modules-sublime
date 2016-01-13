@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import forOwn from 'lodash/object/forOwn';
-]]></content>
-  <tabTrigger>i_forOwn</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/object/forOwn</description>
-</snippet>

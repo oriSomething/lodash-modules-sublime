@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import result from 'lodash/object/result';
-]]></content>
-  <tabTrigger>i_result</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/object/result</description>
-</snippet>

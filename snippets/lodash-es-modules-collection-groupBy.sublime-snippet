@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import groupBy from 'lodash/collection/groupBy';
-]]></content>
-  <tabTrigger>i_groupBy</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/groupBy</description>
-</snippet>

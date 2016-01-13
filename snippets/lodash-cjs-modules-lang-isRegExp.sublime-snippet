@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var isRegExp = require('lodash/lang/isRegExp');
-]]></content>
-  <tabTrigger>r_isRegExp</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/isRegExp</description>
-</snippet>

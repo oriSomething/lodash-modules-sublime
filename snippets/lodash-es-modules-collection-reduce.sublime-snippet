@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import reduce from 'lodash/collection/reduce';
-]]></content>
-  <tabTrigger>i_reduce</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/collection/reduce</description>
-</snippet>

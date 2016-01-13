@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import partial from 'lodash/partial';
+]]></content>
+  <tabTrigger>i_partial</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/partial</description>
+</snippet>

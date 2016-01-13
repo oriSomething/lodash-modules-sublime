@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const fp = require('lodash/fp');
+]]></content>
+  <tabTrigger>r_fp</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/fp</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const gt = require('lodash/gt');
+]]></content>
+  <tabTrigger>r_gt</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/gt</description>
+</snippet>

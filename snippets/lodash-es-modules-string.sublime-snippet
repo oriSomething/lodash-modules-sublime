@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import string from 'lodash/string';
+]]></content>
+  <tabTrigger>i_string</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/string</description>
+</snippet>

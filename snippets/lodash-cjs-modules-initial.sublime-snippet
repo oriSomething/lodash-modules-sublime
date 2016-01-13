@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const initial = require('lodash/initial');
+]]></content>
+  <tabTrigger>r_initial</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/initial</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import takeRightWhile from 'lodash/takeRightWhile';
+]]></content>
+  <tabTrigger>i_takeRightWhile</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/takeRightWhile</description>
+</snippet>

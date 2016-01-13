@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import indexOf from 'lodash/array/indexOf';
-]]></content>
-  <tabTrigger>i_indexOf</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/indexOf</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var cloneDeep = require('lodash/lang/cloneDeep');
-]]></content>
-  <tabTrigger>r_cloneDeep</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/lang/cloneDeep</description>
-</snippet>

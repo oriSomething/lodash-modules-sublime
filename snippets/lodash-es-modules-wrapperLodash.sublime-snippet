@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import wrapperLodash from 'lodash/wrapperLodash';
+]]></content>
+  <tabTrigger>i_wrapperLodash</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/wrapperLodash</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const find = require('lodash/find');
+]]></content>
+  <tabTrigger>r_find</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/find</description>
+</snippet>

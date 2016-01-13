@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isElement from 'lodash/isElement';
+]]></content>
+  <tabTrigger>i_isElement</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isElement</description>
+</snippet>

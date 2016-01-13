@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import differenceBy from 'lodash/differenceBy';
+]]></content>
+  <tabTrigger>i_differenceBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/differenceBy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const after = require('lodash/after');
+]]></content>
+  <tabTrigger>r_after</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/after</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import xor from 'lodash/xor';
+]]></content>
+  <tabTrigger>i_xor</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/xor</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const hasIn = require('lodash/hasIn');
+]]></content>
+  <tabTrigger>r_hasIn</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/hasIn</description>
+</snippet>

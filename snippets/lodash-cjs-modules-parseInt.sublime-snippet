@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const parseInt = require('lodash/parseInt');
+]]></content>
+  <tabTrigger>r_parseInt</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/parseInt</description>
+</snippet>

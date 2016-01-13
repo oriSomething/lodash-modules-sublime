@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const wrapperReverse = require('lodash/wrapperReverse');
+]]></content>
+  <tabTrigger>r_wrapperReverse</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/wrapperReverse</description>
+</snippet>

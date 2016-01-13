@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import ary from 'lodash/ary';
+]]></content>
+  <tabTrigger>i_ary</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/ary</description>
+</snippet>

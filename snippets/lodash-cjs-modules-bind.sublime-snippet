@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const bind = require('lodash/bind');
+]]></content>
+  <tabTrigger>r_bind</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/bind</description>
+</snippet>

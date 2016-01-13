@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import pull from 'lodash/array/pull';
-]]></content>
-  <tabTrigger>i_pull</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/array/pull</description>
-</snippet>

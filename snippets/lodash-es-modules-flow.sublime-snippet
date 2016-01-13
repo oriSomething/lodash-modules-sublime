@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import flow from 'lodash/flow';
+]]></content>
+  <tabTrigger>i_flow</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/flow</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const result = require('lodash/result');
+]]></content>
+  <tabTrigger>r_result</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/result</description>
+</snippet>

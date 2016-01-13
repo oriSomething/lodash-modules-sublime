@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import fromPairs from 'lodash/fromPairs';
+]]></content>
+  <tabTrigger>i_fromPairs</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/fromPairs</description>
+</snippet>

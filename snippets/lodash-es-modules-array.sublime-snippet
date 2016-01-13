@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import array from 'lodash/array';
+]]></content>
+  <tabTrigger>i_array</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/array</description>
+</snippet>

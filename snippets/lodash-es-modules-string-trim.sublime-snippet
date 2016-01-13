@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import trim from 'lodash/string/trim';
-]]></content>
-  <tabTrigger>i_trim</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/string/trim</description>
-</snippet>

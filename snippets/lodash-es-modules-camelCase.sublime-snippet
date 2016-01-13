@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import camelCase from 'lodash/camelCase';
+]]></content>
+  <tabTrigger>i_camelCase</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/camelCase</description>
+</snippet>

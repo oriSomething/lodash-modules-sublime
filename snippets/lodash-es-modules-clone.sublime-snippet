@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import clone from 'lodash/clone';
+]]></content>
+  <tabTrigger>i_clone</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/clone</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isArguments from 'lodash/isArguments';
+]]></content>
+  <tabTrigger>i_isArguments</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isArguments</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const templateSettings = require('lodash/templateSettings');
+]]></content>
+  <tabTrigger>r_templateSettings</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/templateSettings</description>
+</snippet>

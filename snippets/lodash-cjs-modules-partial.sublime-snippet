@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const partial = require('lodash/partial');
+]]></content>
+  <tabTrigger>r_partial</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/partial</description>
+</snippet>

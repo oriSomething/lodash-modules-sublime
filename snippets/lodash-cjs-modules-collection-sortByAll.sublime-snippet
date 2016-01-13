@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var sortByAll = require('lodash/collection/sortByAll');
-]]></content>
-  <tabTrigger>r_sortByAll</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/collection/sortByAll</description>
-</snippet>

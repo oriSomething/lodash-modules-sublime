@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import filter from 'lodash/filter';
+]]></content>
+  <tabTrigger>i_filter</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/filter</description>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var assign = require('lodash/object/assign');
-]]></content>
-  <tabTrigger>r_assign</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/object/assign</description>
-</snippet>

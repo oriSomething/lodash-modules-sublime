@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const spread = require('lodash/spread');
+]]></content>
+  <tabTrigger>r_spread</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/spread</description>
+</snippet>

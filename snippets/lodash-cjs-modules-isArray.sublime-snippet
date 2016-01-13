@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isArray = require('lodash/isArray');
+]]></content>
+  <tabTrigger>r_isArray</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isArray</description>
+</snippet>

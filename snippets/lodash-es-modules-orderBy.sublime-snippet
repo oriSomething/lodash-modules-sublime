@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import orderBy from 'lodash/orderBy';
+]]></content>
+  <tabTrigger>i_orderBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/orderBy</description>
+</snippet>

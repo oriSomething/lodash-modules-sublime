@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import replace from 'lodash/replace';
+]]></content>
+  <tabTrigger>i_replace</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/replace</description>
+</snippet>

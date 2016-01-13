@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import property from 'lodash/utility/property';
-]]></content>
-  <tabTrigger>i_property</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/utility/property</description>
-</snippet>

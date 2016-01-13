@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import memoize from 'lodash/memoize';
+]]></content>
+  <tabTrigger>i_memoize</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/memoize</description>
+</snippet>

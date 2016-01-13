@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import identity from 'lodash/identity';
+]]></content>
+  <tabTrigger>i_identity</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/identity</description>
+</snippet>

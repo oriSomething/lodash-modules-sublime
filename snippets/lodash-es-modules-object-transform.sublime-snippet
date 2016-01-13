@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import transform from 'lodash/object/transform';
-]]></content>
-  <tabTrigger>i_transform</tabTrigger>
-  <scope>source.js</scope>
-  <description>ES lodash/object/transform</description>
-</snippet>

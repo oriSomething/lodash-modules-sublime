@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var forIn = require('lodash/object/forIn');
-]]></content>
-  <tabTrigger>r_forIn</tabTrigger>
-  <scope>source.js</scope>
-  <description>CJS lodash/object/forIn</description>
-</snippet>

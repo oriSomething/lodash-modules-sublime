@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import unset from 'lodash/unset';
+]]></content>
+  <tabTrigger>i_unset</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/unset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import subtract from 'lodash/subtract';
+]]></content>
+  <tabTrigger>i_subtract</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/subtract</description>
+</snippet>

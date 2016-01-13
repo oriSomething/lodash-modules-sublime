@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const takeRight = require('lodash/takeRight');
+]]></content>
+  <tabTrigger>r_takeRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/takeRight</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const map = require('lodash/map');
+]]></content>
+  <tabTrigger>r_map</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/map</description>
+</snippet>

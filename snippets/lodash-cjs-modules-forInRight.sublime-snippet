@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const forInRight = require('lodash/forInRight');
+]]></content>
+  <tabTrigger>r_forInRight</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/forInRight</description>
+</snippet>

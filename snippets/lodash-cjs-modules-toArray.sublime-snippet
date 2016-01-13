@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const toArray = require('lodash/toArray');
+]]></content>
+  <tabTrigger>r_toArray</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/toArray</description>
+</snippet>

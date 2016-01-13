@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const next = require('lodash/next');
+]]></content>
+  <tabTrigger>r_next</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/next</description>
+</snippet>
