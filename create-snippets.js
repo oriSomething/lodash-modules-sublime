@@ -1,6 +1,7 @@
 "use strict";
 
 const fs = require("fs");
+const path = require("path");
 const _ = require("lodash");
 
 
@@ -51,8 +52,9 @@ const createSnippets = (templateFn, prefix, modules) => _(modules)
   });
 
 // Read the modules from library
-const modules = _.chain(fs.readdirSync("node_modules/lodash"))
+const modules = _.chain(fs.readdirSync(path.dirname(require.resolve("lodash"))))
   .filter(fileName => /\.js$/.test(fileName))
+  .filter(fileName => /^[a-z]/i.test(fileName))
   .filter(fileName => fileName !== "index.js")
   .filter(fileName => fileName !== "lodash.js")
   .map(fileName => fileName.slice(0, fileName.length - 3))
