@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isArrayBuffer from 'lodash/isArrayBuffer';
+]]></content>
+  <tabTrigger>i_isArrayBuffer</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isArrayBuffer</description>
+</snippet>

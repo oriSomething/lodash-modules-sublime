@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import castArray from 'lodash/castArray';
+]]></content>
+  <tabTrigger>i_castArray</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/castArray</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const castArray = require('lodash/castArray');
+]]></content>
+  <tabTrigger>r_castArray</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/castArray</description>
+</snippet>

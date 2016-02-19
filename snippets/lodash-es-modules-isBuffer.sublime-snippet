@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isBuffer from 'lodash/isBuffer';
+]]></content>
+  <tabTrigger>i_isBuffer</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isBuffer</description>
+</snippet>

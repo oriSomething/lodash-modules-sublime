@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isWeakSet = require('lodash/isWeakSet');
+]]></content>
+  <tabTrigger>r_isWeakSet</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isWeakSet</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const extend = require('lodash/extend');
+]]></content>
+  <tabTrigger>r_extend</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/extend</description>
+</snippet>

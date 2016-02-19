@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const invertBy = require('lodash/invertBy');
+]]></content>
+  <tabTrigger>r_invertBy</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/invertBy</description>
+</snippet>

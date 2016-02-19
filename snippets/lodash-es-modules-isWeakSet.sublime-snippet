@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isWeakSet from 'lodash/isWeakSet';
+]]></content>
+  <tabTrigger>i_isWeakSet</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isWeakSet</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import isWeakMap from 'lodash/isWeakMap';
+]]></content>
+  <tabTrigger>i_isWeakMap</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/isWeakMap</description>
+</snippet>

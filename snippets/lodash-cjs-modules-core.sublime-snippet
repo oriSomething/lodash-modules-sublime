@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const core = require('lodash/core');
+]]></content>
+  <tabTrigger>r_core</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/core</description>
+</snippet>

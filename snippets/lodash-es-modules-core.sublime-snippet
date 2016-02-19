@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import core from 'lodash/core';
+]]></content>
+  <tabTrigger>i_core</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/core</description>
+</snippet>

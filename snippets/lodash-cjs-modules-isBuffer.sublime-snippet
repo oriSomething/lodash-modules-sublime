@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const isBuffer = require('lodash/isBuffer');
+]]></content>
+  <tabTrigger>r_isBuffer</tabTrigger>
+  <scope>source.js</scope>
+  <description>CJS lodash/isBuffer</description>
+</snippet>

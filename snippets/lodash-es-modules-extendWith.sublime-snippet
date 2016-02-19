@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import extendWith from 'lodash/extendWith';
+]]></content>
+  <tabTrigger>i_extendWith</tabTrigger>
+  <scope>source.js</scope>
+  <description>ES lodash/extendWith</description>
+</snippet>
